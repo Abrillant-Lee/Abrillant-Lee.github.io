@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1743],{7574:(e,s,a)=>{a.r(s),a.d(s,{default:()=>c});a(7294);var i=a(6040),t=a(5893);function c(){return(0,t.jsxs)(i.Z,{children:[(0,t.jsx)("h1",{children:"Abrillant Lee React page"}),(0,t.jsx)("p",{children:"This is a React page"})]})}}}]);
