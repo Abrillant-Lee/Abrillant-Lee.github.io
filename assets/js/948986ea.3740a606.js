@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[5520],{3193:function(i){i.exports=JSON.parse('{"title":"Linux","slug":"/category/linux","permalink":"/docs/category/linux","navigation":{"previous":{"title":"\u6280\u672f\u7b14\u8bb0\u7b80\u4ecb","permalink":"/docs/skill"},"next":{"title":"Linux \u6982\u8ff0","permalink":"/docs/Linux_introduction"}}}')}}]);
