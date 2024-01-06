@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[7344],{217:function(e){e.exports=JSON.parse('{"label":"C/C++","permalink":"/en/blog/tags/c-c","allTagsPath":"/en/blog/tags","count":3,"unlisted":false}')}}]);
