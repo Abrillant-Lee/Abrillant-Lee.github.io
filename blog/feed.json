@@ -5,11 +5,28 @@
     "description": "nan Blog",
     "items": [
         {
+            "id": "https://Abrillant-Lee.github.io/blog/sct",
+            "content_html": "<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"名词理解\">名词理解<a href=\"#名词理解\" class=\"hash-link\" aria-label=\"名词理解的直接链接\" title=\"名词理解的直接链接\">​</a></h3>\n<blockquote>\n<p>碳源、碳汇、碳达峰、碳中和</p>\n</blockquote>\n<ul>\n<li><strong>碳源</strong>：也称二氧化碳（排放）源、温室气体（排放）源\n<ul>\n<li>\"碳源\"是指向大气排放温室气体、气溶胶或温室气体前体的任何过程或活动。这个定义来自《联合国气候变化框架公约》。</li>\n</ul>\n</li>\n<li><strong>碳汇</strong>：二氧化碳汇、温室气体汇\n<ul>\n<li>\"碳汇\"是指从大气中清除温室气体、气溶胶或温室气体前体的任何过程、活动或机制。这个定义也来自《联合国气候变化框架公约》</li>\n</ul>\n</li>\n<li><strong>碳达峰</strong>：\n<ul>\n<li>碳达峰是指某个地区或经济体年度温室气体（尤其是二氧化碳）排放总量，在经历一段时间的增长后达到最大值，即峰值，此后这一排放量不在持续增长，并开始进入平台期或者逐渐下降阶段。</li>\n</ul>\n</li>\n<li><strong>碳中和</strong>：\n<ul>\n<li>排放＝吸收，人为温室气体排放量与人为温室气体清除量相平衡的状态</li>\n<li>指一个国家、地区、城市、组织或个人，在一定时期内，通过采取各种措施，实现其直接与间接产生的温室气体排放量（以二氧化碳当量计算）与通过各种方式吸收的二氧化碳及其它温室气体相平衡的过程。</li>\n</ul>\n</li>\n</ul>\n<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"碳管理昇腾后续规划\">碳管理昇腾后续规划<a href=\"#碳管理昇腾后续规划\" class=\"hash-link\" aria-label=\"碳管理昇腾后续规划的直接链接\" title=\"碳管理昇腾后续规划的直接链接\">​</a></h2>\n<blockquote>\n<p><em><strong>已实现功能</strong></em><br>\n1、部署 碳价格预测/碳排放预测算法（已完成）<br>\n2、用作上位机进行控制小熊派进行碳核算（有线、无线均完成）<br>\n3、当作一台服务器，开拓后端数据库（已完成）<br></p>\n</blockquote>\n<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"1-场景规划\">1. 场景规划<a href=\"#1-场景规划\" class=\"hash-link\" aria-label=\"1. 场景规划的直接链接\" title=\"1. 场景规划的直接链接\">​</a></h3>\n<p>将昇腾配置的屏幕放置在门内，凸出5cm，并使用QT界面作为主控中心控制碳测量一体机（Hi3861）设备状态、控制算法推理状态。</p>\n<img loading=\"lazy\" src=\"/img/blog/昇腾应用场景.png\" class=\"img_ev3q\">",
+            "url": "https://Abrillant-Lee.github.io/blog/sct",
+            "title": "碳管理项目梳理",
+            "summary": "碳管理项目梳理",
+            "date_modified": "2024-01-08T00:00:00.000Z",
+            "author": {
+                "name": "李浩楠",
+                "url": "https://github.com/Abrillant-Lee"
+            },
+            "tags": [
+                "blog",
+                "思考",
+                "docusaurus"
+            ]
+        },
+        {
             "id": "https://Abrillant-Lee.github.io/blog/blog_write",
-            "content_html": "<p>我为什么要写博客？</p>\n<p>写博客的初衷是什么？</p>\n<p>写博客能给我带来什么？</p>\n<h2></h2>",
+            "content_html": "<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"对自己提的问题\">对自己提的问题<a href=\"#对自己提的问题\" class=\"hash-link\" aria-label=\"对自己提的问题的直接链接\" title=\"对自己提的问题的直接链接\">​</a></h2>\n<ul>\n<li>\n<p>我为什么要写博客，博客写什么？</p>\n</li>\n<li>\n<p>写博客能给我带来什么？</p>\n</li>\n<li>\n<p>怎么让别人理解我写博客？</p>\n</li>\n</ul>\n<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"1我为什么要写博客博客写什么\">1、我为什么要写博客，博客写什么？<a href=\"#1我为什么要写博客博客写什么\" class=\"hash-link\" aria-label=\"1、我为什么要写博客，博客写什么？的直接链接\" title=\"1、我为什么要写博客，博客写什么？的直接链接\">​</a></h3>\n<ul>\n<li>1、写自己开发成功的教程</li>\n<li>2、写自己的对项目的理解</li>\n<li>3、写自己的生活感悟</li>\n</ul>\n<p>通过写博客，可以看到自己的成长，有成就感</p>\n<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"2写博客的初衷是什么\">2、写博客的初衷是什么？<a href=\"#2写博客的初衷是什么\" class=\"hash-link\" aria-label=\"2、写博客的初衷是什么？的直接链接\" title=\"2、写博客的初衷是什么？的直接链接\">​</a></h3>\n<p>23年9月份的时候看王师傅用hexo搭建个人博客，写日常开发笔记，觉得很酷，别人可以通过一个网页看到自己的成长，自己也可以通过写博客来记录自己的成长，所以我也想搭建一个自己的博客，记录自己的成长。</p>\n<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"3写博客能给我带来什么\">3、写博客能给我带来什么？<a href=\"#3写博客能给我带来什么\" class=\"hash-link\" aria-label=\"3、写博客能给我带来什么？的直接链接\" title=\"3、写博客能给我带来什么？的直接链接\">​</a></h3>\n<p>成就感，看到自己点滴的成长</p>",
             "url": "https://Abrillant-Lee.github.io/blog/blog_write",
-            "title": "我为什么要写博客",
-            "summary": "写博客",
+            "title": "关于博客的思考",
+            "summary": "关于博客的思考",
             "date_modified": "2024-01-07T00:00:00.000Z",
             "author": {
                 "name": "李浩楠",
@@ -17,7 +34,7 @@
             },
             "tags": [
                 "blog",
-                "随笔",
+                "思考",
                 "docusaurus"
             ]
         }
