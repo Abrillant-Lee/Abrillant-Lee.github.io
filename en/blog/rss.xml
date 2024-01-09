@@ -83,7 +83,7 @@
 </blockquote>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1-场景规划">1. 场景规划<a href="#1-场景规划" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
 <p>将昇腾配置的屏幕放置在门内，凸出5cm，并使用QT界面作为主控中心控制碳测量一体机（Hi3861）设备状态、控制算法推理状态。</p>
-<p>&lt;img src="/img/blog/昇腾应用场景.png"****&gt;</p>]]></content:encoded>
+<img loading="lazy" src="/img/blog/昇腾应用场景.png" class="img_ev3q">]]></content:encoded>
             <category>blog</category>
             <category>思考</category>
             <category>docusaurus</category>
@@ -94,32 +94,18 @@
             <guid>https://Abrillant-Lee.github.io/en/blog/blog_write</guid>
             <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[关于博客的思考]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="对自己提的问题">对自己提的问题<a href="#对自己提的问题" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1我为什么要写博客">1、我为什么要写博客?<a href="#1我为什么要写博客" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="简单来说就是分享">简单来说就是<strong>分享</strong><a href="#简单来说就是分享" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>
 <ul>
-<li>
-<p>我为什么要写博客，博客写什么？</p>
-</li>
-<li>
-<p>写博客能给我带来什么？</p>
-</li>
-<li>
-<p>怎么让别人理解我写博客？</p>
-</li>
+<li>1、分享自己写的教程</li>
+<li>2、分享自己的对某一个技术的思考、感悟</li>
+<li>3、分享自己的生活经历</li>
 </ul>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1我为什么要写博客博客写什么">1、我为什么要写博客，博客写什么？<a href="#1我为什么要写博客博客写什么" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
-<ul>
-<li>1、写自己开发成功的教程</li>
-<li>2、写自己的对项目的理解</li>
-<li>3、写自己的生活感悟</li>
-</ul>
-<p>通过写博客，可以看到自己的成长，有成就感</p>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="2写博客的初衷是什么">2、写博客的初衷是什么？<a href="#2写博客的初衷是什么" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
-<p>23年9月份的时候看王师傅用hexo搭建个人博客，写日常开发笔记，觉得很酷，别人可以通过一个网页看到自己的成长，自己也可以通过写博客来记录自己的成长，所以我也想搭建一个自己的博客，记录自己的成长。</p>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="3写博客能给我带来什么">3、写博客能给我带来什么？<a href="#3写博客能给我带来什么" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
-<p>成就感，看到自己点滴的成长</p>]]></content:encoded>
+<p>我并非想要炫耀什么，炫耀自己的技术了什么的，更多的是一时兴起，分享给有需要的人，希望让其更为纯粹一些，仅此而已。</p>
+<p>其实分享也实实在在给我带来了很多好处，通过我的分享，我收获了很多朋友，最初的我作为读者受益于王师傅的无私分享，结识了王师傅这个嵌入式佬，而当我成为分享者后，又结识了诸如张冉等众多志同道合的技术伙伴，对于现在的我来说分享知识结识更多的技术伙伴，但在未来，相信通过分享内容质量逐渐提高，分享也可以给我带来新的工作机会。<br></p>
+<p>我也希望大家能够分享一些内容，一些见解心得，哪怕是一些笔记、对他人问题的回复，都可能在无形中播下机遇的种子，带来意想不到的收获。。</p>]]></content:encoded>
             <category>blog</category>
             <category>思考</category>
-            <category>docusaurus</category>
         </item>
     </channel>
 </rss>
