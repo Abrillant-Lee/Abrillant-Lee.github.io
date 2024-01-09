@@ -38,8 +38,7 @@
 <p>总结来说，倒立摆的“阶数”是以其动力学模型中的最高阶导数（即运动自由度的数量）来划分的，每个自由度对应一个状态变量的一阶导数。随着阶数增加，控制问题的复杂性也随之增加，因为需要对多个状态变量及其变化率进行实时准确控制以保持系统的稳定平衡。</p>
 </blockquote>]]></content:encoded>
             <category>blog</category>
-            <category>思考</category>
-            <category>docusaurus</category>
+            <category>控制工程</category>
         </item>
         <item>
             <title><![CDATA[碳管理项目梳理]]></title>
@@ -91,9 +90,8 @@
 <li>1、建立Fusion模型</li>
 <li>2、借鉴qt界面，快速魔改</li>
 </ul>]]></content:encoded>
-            <category>blog</category>
             <category>思考</category>
-            <category>docusaurus</category>
+            <category>项目</category>
         </item>
         <item>
             <title><![CDATA[关于博客的思考]]></title>
