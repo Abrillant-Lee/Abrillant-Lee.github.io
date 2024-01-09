@@ -2,12 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Abrillant-Lee.github.io/blog</id>
     <title>nan</title>
-    <updated>2024-01-08T00:00:00.000Z</updated>
+    <updated>2024-01-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Abrillant-Lee.github.io/blog"/>
     <subtitle>nan Blog</subtitle>
     <icon>https://Abrillant-Lee.github.io/img/nan.ico</icon>
     <rights>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;CC BY-NC 4.0&lt;/a&gt;&lt;/p&gt;</rights>
+    <entry>
+        <title type="html"><![CDATA[一阶倒立摆]]></title>
+        <id>https://Abrillant-Lee.github.io/blog/daolibai</id>
+        <link href="https://Abrillant-Lee.github.io/blog/daolibai"/>
+        <updated>2024-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一阶倒立摆]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶">一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶<a href="#一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶" class="hash-link" aria-label="一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接" title="一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接">​</a></h3>
+<p>一阶倒立摆、二阶倒立摆和三阶倒立摆的区别主要在于它们的<strong>运动自由度</strong>以及所对应的动力学模型的复杂程度：</p>
+<ul>
+<li>一阶倒立摆：
+<ul>
+<li>通常指的是一个简化的模型，其中倒立摆的基座（例如小车）可以沿单一方向（通常是水平直线）自由移动。这种情况下，系统状态通常由摆杆相对于竖直方向的角度以及小车的位置（或速度）来描述，因此系统状态方程是一阶微分方程。</li>
+</ul>
+</li>
+<li>二阶倒立摆：
+<ul>
+<li>指的是基座有两个独立的自由度，可以分别在两个正交的方向上移动（例如x轴和y轴）。此时，除了摆杆角度之外，还需要考虑基座在二维平面上的位置及其速度。系统的动态模型包含了这两个自由度上的运动，导致状态方程是二阶微分方程。</li>
+</ul>
+</li>
+<li>三阶倒立摆：
+<ul>
+<li>这种情况下，倒立摆系统具有更高的自由度，可能是由于基座可以在三维空间中移动（x, y, z三个方向），或者在包含旋转自由度时，如同时考虑摆杆绕其质心的转动以及基座的平动和转动。相应的，控制系统需要处理三个或更多的运动变量，这样建立的动力学模型将涉及三阶或更高阶的微分方程。</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>总结来说，倒立摆的“阶数”是以其动力学模型中的最高阶导数（即运动自由度的数量）来划分的，每个自由度对应一个状态变量的一阶导数。随着阶数增加，控制问题的复杂性也随之增加，因为需要对多个状态变量及其变化率进行实时准确控制以保持系统的稳定平衡。</p>
+</blockquote>]]></content>
+        <author>
+            <name>李浩楠</name>
+            <uri>https://github.com/Abrillant-Lee</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="思考" term="思考"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[碳管理项目梳理]]></title>
         <id>https://Abrillant-Lee.github.io/blog/sct</id>
@@ -37,7 +73,7 @@
 <li><strong>碳中和</strong>：
 <ul>
 <li>排放＝吸收，人为温室气体排放量与人为温室气体清除量相平衡的状态</li>
-<li>指一个国家、地区、城市、组织或个人，在一定时期内，通过采取各种措施，实现其直接与间接产生的温室气体排放量（以二氧化碳当量计算）与通过各种方式吸收的二氧化碳及其它温室气体相平衡的过程。</li>
+<li>指一个国家、地区、城市、组织或个人，在一定时期内，通过采取各种措施，实现其直接与间接产生的温室气体排放量（<strong>以二氧化碳当量计算</strong>）与通过各种方式吸收的二氧化碳及其它温室气体相平衡的过程。</li>
 </ul>
 </li>
 </ul>
@@ -50,7 +86,7 @@
 </blockquote>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1-场景规划">1. 场景规划<a href="#1-场景规划" class="hash-link" aria-label="1. 场景规划的直接链接" title="1. 场景规划的直接链接">​</a></h3>
 <p>将昇腾配置的屏幕放置在门内，凸出5cm，并使用QT界面作为主控中心控制碳测量一体机（Hi3861）设备状态、控制算法推理状态。</p>
-<img loading="lazy" src="/img/blog/昇腾应用场景.png" class="img_ev3q">]]></content>
+<p>&lt;img src="/img/blog/昇腾应用场景.png"****&gt;</p>]]></content>
         <author>
             <name>李浩楠</name>
             <uri>https://github.com/Abrillant-Lee</uri>
@@ -77,7 +113,7 @@
 <p>怎么让别人理解我写博客？</p>
 </li>
 </ul>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1我为什么要写博客博客写什么">1、我为什么要写博客，博客写什么？<a href="#1我为什么要写博客博客写什么" class="hash-link" aria-label="1、我为什么要写博客，博客写什么？的直接链接" title="1、我为什么要写博客，博客写什么？的直接链接">​</a></h3>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1我为什么要写博客博客写什么">1、我为什么要写博客，博客写什么？<a href="#1我为什么要写博客博客写什么" class="hash-link" aria-label="1、我为什么要写博客，博客写什么？的直接链接" title="1、我为什么要写博客，�博客写什么？的直接链接">​</a></h3>
 <ul>
 <li>1、写自己开发成功的教程</li>
 <li>2、写自己的对项目的理解</li>

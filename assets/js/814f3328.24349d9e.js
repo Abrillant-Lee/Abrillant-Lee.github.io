@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Blogs","items":[{"title":"\u78b3\u7ba1\u7406\u9879\u76ee\u68b3\u7406","permalink":"/blog/sct","unlisted":false},{"title":"\u5173\u4e8e\u535a\u5ba2\u7684\u601d\u8003","permalink":"/blog/blog_write","unlisted":false}]}')}}]);
