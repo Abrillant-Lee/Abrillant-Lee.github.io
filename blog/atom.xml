@@ -14,7 +14,8 @@
         <link href="https://Abrillant-Lee.github.io/blog/daolibai"/>
         <updated>2024-01-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[一阶倒立摆]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶">一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶<a href="#一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶" class="hash-link" aria-label="一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接" title="一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接">​</a></h3>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="控制工程倒立摆总结">控制工程——倒立摆总结<a href="#控制工程倒立摆总结" class="hash-link" aria-label="控制工程——倒立摆总结的直接链接" title="控制工程——倒立摆总结的直接链接">​</a></h2>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶">一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶<a href="#一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶" class="hash-link" aria-label="一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接" title="一阶倒立摆、二阶��倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接">​</a></h3>
 <p>一阶倒立摆、二阶倒立摆和三阶倒立摆的区别主要在于它们的<strong>运动自由度</strong>以及所对应的动力学模型的复杂程度：</p>
 <ul>
 <li>一阶倒立摆：
@@ -88,25 +89,40 @@
 <p><strong>其他减碳方式</strong>：</p>
 <ul>
 <li>
-<p>智能窗帘系统：</p>
-<blockquote>
-<p>自动调节窗帘开关，最大化利用自然光，减少白天人工照明的需求。通过单片机控制电机，实现窗帘的自动开关，同时结合光照强度传感器，实现自动调节窗帘开关的功能。</p>
-</blockquote>
+<p><strong>智能窗帘系统：</strong></p>
+<ul>
+<li>
+<p>实现效果：自动调节窗帘开关，最大化利用自然光，减少白天人工照明的需求。</p>
 </li>
 <li>
-<p>LED照明控制：</p>
-<blockquote>
-<p>单片机可以设计成智能照明控制系统的核心部分，结合光照强度传感器和运动检测传感器，实现实时调节亮度、按需开关的功能，比如上述的人来灯亮、人走灯灭场景，以及日光感应自动调光。</p>
-</blockquote>
+<p>如何实现：通过单片机控制电机/电动推杆，实现窗帘的自动开关，同时结合光照强度传感器，实现自动调节窗帘开关的功能。</p>
+</li>
+</ul>
 </li>
 <li>
-<p>智能家居节能：</p>
-<blockquote>
-<p>在智能家居环境中，单片机控制各类家电进入待机模式或休眠模式，比如电视、音响、路由器等设备，在不使用时自动切断电源或切换至极低功耗状态。</p>
-</blockquote>
+<p><strong>智能照明系统：</strong></p>
+<ul>
+<li>
+<p>实现效果：实时调节亮度、光色、按需开关的功能，比如上述的人来灯亮、人走灯灭场景，以及日光感应自动调光，定时开关等功能，降低照明能耗。</p>
 </li>
 <li>
-<p>水资源管理：</p>
+<p>如何实现：单片机可以设计成智能照明控制系统的核心部分，结合光照强度传感器和运动检测传感器，</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>智能家居节能：</strong></p>
+<ul>
+<li>
+<p>实现效果：电视、音响、路由器等设备，在不使用时自动切断电源或切换至极低功耗状态。</p>
+</li>
+<li>
+<p>如何实现：单片机控制各类家电进入待机模式或休眠模式</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>水资源管理：</strong></p>
 <blockquote>
 <p>安装节水器具：例如低流量淋浴头、双冲水马桶等节水设施。收集雨水：用于浇灌花园或冲洗马桶，减少市政供水消耗。</p>
 </blockquote>
@@ -127,7 +143,7 @@
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="下一步规划">下一步规划：<a href="#下一步规划" class="hash-link" aria-label="下一步规划：的直接链接" title="下一步规划：的直接链接">​</a></h3>
 <ul>
 <li>1、建立Fusion模型</li>
-<li>2、借鉴qt界面，快速魔改</li>
+<li>2、借鉴其他项目的qt界面，快速魔改</li>
 </ul>]]></content>
         <author>
             <name>李浩楠</name>
