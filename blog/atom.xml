@@ -2,12 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Abrillant-Lee.github.io/blog</id>
     <title>nan</title>
-    <updated>2024-01-09T00:00:00.000Z</updated>
+    <updated>2024-01-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Abrillant-Lee.github.io/blog"/>
     <subtitle>nan Blog</subtitle>
     <icon>https://Abrillant-Lee.github.io/img/nan.ico</icon>
     <rights>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;CC BY-NC 4.0&lt;/a&gt;&lt;/p&gt;</rights>
+    <entry>
+        <title type="html"><![CDATA[卡尔曼滤波]]></title>
+        <id>https://Abrillant-Lee.github.io/blog/Kalman_filter</id>
+        <link href="https://Abrillant-Lee.github.io/blog/Kalman_filter"/>
+        <updated>2024-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一阶倒立摆]]></summary>
+        <author>
+            <name>李浩楠</name>
+            <uri>https://github.com/Abrillant-Lee</uri>
+        </author>
+        <category label="滤波" term="滤波"/>
+        <category label="控制工程" term="控制工程"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一阶倒立摆]]></title>
         <id>https://Abrillant-Lee.github.io/blog/daolibai</id>
@@ -15,7 +28,7 @@
         <updated>2024-01-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[一阶倒立摆]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="控制工程倒立摆总结">控制工程——倒立摆总结<a href="#控制工程倒立摆总结" class="hash-link" aria-label="控制工程——倒立摆总结的直接链接" title="控制工程——倒立摆总结的直接链接">​</a></h2>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶">一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶<a href="#一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶" class="hash-link" aria-label="一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接" title="一阶倒立摆、二阶��倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接">​</a></h3>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶">一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶<a href="#一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶" class="hash-link" aria-label="一阶倒立摆、二阶�倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接" title="一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接">​</a></h3>
 <p>一阶倒立摆、二阶倒立摆和三阶倒立摆的区别主要在于它们的<strong>运动自由度</strong>以及所对应的动力学模型的复杂程度：</p>
 <ul>
 <li>一阶倒立摆：

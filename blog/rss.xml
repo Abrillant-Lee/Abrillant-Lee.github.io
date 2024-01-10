@@ -4,11 +4,20 @@
         <title>nan</title>
         <link>https://Abrillant-Lee.github.io/blog</link>
         <description>nan Blog</description>
-        <lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <copyright>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;CC BY-NC 4.0&lt;/a&gt;&lt;/p&gt;</copyright>
+        <item>
+            <title><![CDATA[卡尔曼滤波]]></title>
+            <link>https://Abrillant-Lee.github.io/blog/Kalman_filter</link>
+            <guid>https://Abrillant-Lee.github.io/blog/Kalman_filter</guid>
+            <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[一阶倒立摆]]></description>
+            <category>滤波</category>
+            <category>控制工程</category>
+        </item>
         <item>
             <title><![CDATA[一阶倒立摆]]></title>
             <link>https://Abrillant-Lee.github.io/blog/daolibai</link>
@@ -16,7 +25,7 @@
             <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[一阶倒立摆]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="控制工程倒立摆总结">控制工程——倒立摆总结<a href="#控制工程倒立摆总结" class="hash-link" aria-label="控制工程——倒立摆总结的直接链接" title="控制工程——倒立摆总结的直接链接">​</a></h2>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶">一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶<a href="#一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶" class="hash-link" aria-label="一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接" title="一阶倒立摆、二阶��倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接">​</a></h3>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶">一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶<a href="#一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶" class="hash-link" aria-label="一阶倒立摆、二阶�倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接" title="一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接">​</a></h3>
 <p>一阶倒立摆、二阶倒立摆和三阶倒立摆的区别主要在于它们的<strong>运动自由度</strong>以及所对应的动力学模型的复杂程度：</p>
 <ul>
 <li>一阶倒立摆：
