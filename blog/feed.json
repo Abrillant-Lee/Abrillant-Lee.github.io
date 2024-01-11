@@ -21,34 +21,18 @@
             ]
         },
         {
-            "id": "https://Abrillant-Lee.github.io/blog/Kalman_filter",
-            "content_html": "",
-            "url": "https://Abrillant-Lee.github.io/blog/Kalman_filter",
-            "title": "卡尔曼滤波",
-            "summary": "一阶倒立摆",
-            "date_modified": "2024-01-10T00:00:00.000Z",
+            "id": "https://Abrillant-Lee.github.io/blog/think",
+            "content_html": "<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"一阶倒立摆整体流程\">一阶倒立摆整体流程:<a href=\"#一阶倒立摆整体流程\" class=\"hash-link\" aria-label=\"一阶倒立摆整体流程:的直接链接\" title=\"一阶倒立摆整体流程:的直接链接\">​</a></h3>\n<ul>\n<li>数学建模: 动力学方程推导---&gt;传递函数推导<br>\n&nbsp;&nbsp;&nbsp;&nbsp;⬇️<br>\nsimlink仿真: 卡尔曼滤波----双环闭环PID控制<br>\n&nbsp;&nbsp;&nbsp;&nbsp;⬇️<br>\n机电联合仿真<br>\n&nbsp;&nbsp;&nbsp;&nbsp;⬇️<br>\n写代码+搭实物<br>\n&nbsp;&nbsp;&nbsp;&nbsp;⬇️<br>\n调pid</li>\n</ul>\n<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"个人总结\">个人总结<a href=\"#个人总结\" class=\"hash-link\" aria-label=\"个人总结的直接链接\" title=\"个人总结的直接链接\">​</a></h3>\n<ul>\n<li>\n<p>数学建模</p>\n<p>首次深切体验到数学的重要性，我想分享一个在数学建模中遇到的公式给大家体会一下，相信任谁初次接触都会觉得有些困惑，甚至有种想要暂且退后几步细细思考的冲动。我自己在23年暑假时也曾面对这样的迷惑而选择暂时搁置，选择了逃避而非深入学习。然而，深知应当正视那些看似复杂的知识，因此认识到数学这门学科的重要地位是无可替代的。\n<img loading=\"lazy\" src=\"/img/blog/PID/公示.png\" width=\"400\" class=\"img_ev3q\"></p>\n<p>这里强烈推荐学长屡次提及的UP主DR_CAN的课程，我后续会补CAN大神的课，通过学习其控制理论系列课程来深化数学建模方面的理解与应用。</p>\n  <img loading=\"lazy\" src=\"/img/blog/PID/DR_CAN.png\" width=\"400\" class=\"img_ev3q\">\n</li>\n<li>\n<p>simlink仿真</p>\n<p>这一块是请教控制工程小组杨景盛同学，给我的感受是simlink建模的流程并非复杂难解，需要选用指定的元器件，然后把数学建模得到的传递函数结果放进去即可，复杂的是调整参数。</p>\n</li>\n<li>\n<p>写pid代码</p>\n<p>......(正在更新)</p>\n</li>\n<li>\n<p>近期规划：</p>\n<ul>\n<li>倒立摆结项报告、机电联合仿真</li>\n</ul>\n</li>\n<li>\n<p>后续规划:</p>\n<ul>\n<li>加上昇腾，进行数据计算，弄个屏幕华漕进行动态调节pid</li>\n<li>1、全流程走一遍</li>\n<li>2、二轮平衡车</li>\n<li>3、二阶倒立摆</li>\n<li>4、自制倒立摆出售</li>\n</ul>\n</li>\n</ul>",
+            "url": "https://Abrillant-Lee.github.io/blog/think",
+            "title": "控制工程小组",
+            "summary": "控制工程小组两天训练个人思考总结",
+            "date_modified": "2024-01-11T00:00:00.000Z",
             "author": {
                 "name": "李浩楠",
                 "url": "https://github.com/Abrillant-Lee"
             },
             "tags": [
-                "滤波",
-                "控制工程"
-            ]
-        },
-        {
-            "id": "https://Abrillant-Lee.github.io/blog/daolibai",
-            "content_html": "<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"控制工程倒立摆总结\">控制工程——倒立摆总结<a href=\"#控制工程倒立摆总结\" class=\"hash-link\" aria-label=\"控制工程——倒立摆总结的直接链接\" title=\"控制工程——倒立摆总结的直接链接\">​</a></h2>\n<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶\">一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶<a href=\"#一阶倒立摆二阶倒立摆三阶倒立摆区别是什么以什么划分阶\" class=\"hash-link\" aria-label=\"一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接\" title=\"一阶倒立摆、二阶倒立摆、三阶倒立摆区别是什么，以什么划分阶的直接链接\">​</a></h3>\n<p>一阶倒立摆、二阶倒立摆和三阶倒立摆的区别主要在于它们的<strong>运动自由度</strong>以及所对应的动力学模型的复杂程度：</p>\n<ul>\n<li>一阶倒立摆：\n<ul>\n<li>通常指的是一个简化的模型，其中倒立摆的基座（例如小车）可以沿单一方向（通常是水平直线）自由移动。这种情况下，系统状态通常由摆杆相对于竖直方向的角度以及小车的位置（或速度）来描述，因此系统状态方程是一阶微分方程。</li>\n</ul>\n</li>\n<li>二阶倒立摆：\n<ul>\n<li>指的是基座有两个独立的自由度，可以分别在两个正交的方向上移动（例如x轴和y轴）。此时，除了摆杆角度之外，还需要考虑基座在二维平面上的位置及其速度。系统的动态模型包含了这两个自由度上的运动，导致状态方程是二阶微分方程。</li>\n</ul>\n</li>\n<li>三阶倒立摆：\n<ul>\n<li>这种情况下，倒立摆系统具有更高的自由度，可能是由于基座可以在三维空间中移动（x, y, z三个方向），或者在包含旋转自由度时，如同时考虑摆杆绕其质心的转动以及基座的平动和转动。相应的，控制系统需要处理三个或更多的运动变量，这样建立的动力学模型将涉及三阶或更高阶的微分方程。</li>\n</ul>\n</li>\n</ul>\n<blockquote>\n<p>总结来说，倒立摆的“阶数”是以其动力学模型中的最高阶导数（即运动自由度的数量）来划分的，每个自由度对应一个状态变量的一阶导数。随着阶数增加，控制问题的复杂性也随之增加，因为需要对多个状态变量及其变化率进行实时准确控制以保持系统的稳定平衡。</p>\n</blockquote>",
-            "url": "https://Abrillant-Lee.github.io/blog/daolibai",
-            "title": "一阶倒立摆",
-            "summary": "一阶倒立摆",
-            "date_modified": "2024-01-09T00:00:00.000Z",
-            "author": {
-                "name": "李浩楠",
-                "url": "https://github.com/Abrillant-Lee"
-            },
-            "tags": [
-                "blog",
+                "PID",
                 "控制工程"
             ]
         },
