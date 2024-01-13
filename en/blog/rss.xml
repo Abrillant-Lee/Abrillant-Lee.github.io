@@ -4,11 +4,50 @@
         <title>nan</title>
         <link>https://Abrillant-Lee.github.io/en/blog</link>
         <description>nan Blog</description>
-        <lastBuildDate>Thu, 11 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;CC BY-NC 4.0&lt;/a&gt;&lt;/p&gt;</copyright>
+        <item>
+            <title><![CDATA[2023.1.13轻辅培训个人思考]]></title>
+            <link>https://Abrillant-Lee.github.io/en/blog/one</link>
+            <guid>https://Abrillant-Lee.github.io/en/blog/one</guid>
+            <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[2023.1.13轻辅培训个人思考]]></description>
+            <content:encoded><![CDATA[<p>我要直面自己的弱点，把面子丢在家里面，总结表达就是我的弱项，我目前是一个会编程的"高级打工人"，现在虽然是凌晨，但是如果我脑子里对今天的培训没有一点想法，我不会像以前一样哄骗自己是太晚了，太累了，休息好明天再总结，因为我知道如果我现在没有一点想法就代表我个人就是没有想法，不关天时地利还是人和的问题。</p>
+<p>其实看《我处于崩溃边缘》第一章的时候，俞老师在离开北大的时候说：“我毅然离开了那个极度舒适、安全的区域，选择投身风雨。” 这句话恰恰契合了我当前决心采取的行动。</p>
+<p>其实听老师讲了这么多，我现在的想法就是我要留在这里，这里可以发挥我的价值，也可以持续让我变得更有价值</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="以下是记录的一些笔记">以下是记录的一些笔记：<a href="#以下是记录的一些笔记" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
+<ul>
+<li>建模的目的是什么：
+发挥想象、具体化想法、验证可行性</li>
+<li>什么是衍生式设计
+减少耗材、
+最奇特的设计，做奇特设计</li>
+<li>仿真的意义是什么
+快速完成迭代、减少成本、控制过程验证</li>
+</ul>
+<p>如何做一个新项目</p>
+<ul>
+<li>
+<p>一、想象，发挥想象</p>
+</li>
+<li>
+<p>二、构思，如何实现</p>
+</li>
+<li>
+<p>三、分工，明确任务
+如何配合，各个模块之间的联系
+阶段目标是什么</p>
+<p>想法+构思=？O+KR
+想法=想法丰富+目标明确+快速迭
+构思=整体把控+只是全面+需求明:</p>
+</li>
+</ul>]]></content:encoded>
+            <category>blog</category>
+            <category>思考</category>
+        </item>
         <item>
             <title><![CDATA[PID原理与应用]]></title>
             <link>https://Abrillant-Lee.github.io/en/blog/pid</link>
@@ -215,45 +254,6 @@ simlink仿真: 卡尔曼滤波----双环闭环PID控制<br>
 </ul>]]></content:encoded>
             <category>PID</category>
             <category>控制工程</category>
-        </item>
-        <item>
-            <title><![CDATA[2023.1.13轻辅培训个人思考]]></title>
-            <link>https://Abrillant-Lee.github.io/en/blog/one</link>
-            <guid>https://Abrillant-Lee.github.io/en/blog/one</guid>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[2023.1.13轻辅培训个人思考]]></description>
-            <content:encoded><![CDATA[<p>我要直面自己的弱点，把面子丢在家里面，总结表达就是我的弱项，我目前是一个会编程的"高级打工人"，现在虽然是凌晨，但是如果我脑子里对今天的培训没有一点想法，我不会像以前一样哄骗自己是太晚了，太累了，休息好明天再总结，因为我知道如果我现在没有一点想法就代表我个人就是没有想法，不关天时地利还是人和的问题。</p>
-<p>其实看《我处于崩溃边缘》第一章的时候，俞老师在离开北大的时候说：“我毅然离开了那个极度舒适、安全的区域，选择投身风雨。” 这句话恰恰契合了我当前决心采取的行动。</p>
-<p>其实听老师讲了这么多，我现在的想法就是我要留在这里，这里可以发挥我的价值，也可以持续让我变得更有价值</p>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="以下是记录的一些笔记">以下是记录的一些笔记：<a href="#以下是记录的一些笔记" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
-<ul>
-<li>建模的目的是什么：
-发挥想象、具体化想法、验证可行性</li>
-<li>什么是衍生式设计
-减少耗材、
-最奇特的设计，做奇特设计</li>
-<li>仿真的意义是什么
-快速完成迭代、减少成本、控制过程验证</li>
-</ul>
-<p>如何做一个新项目</p>
-<ul>
-<li>
-<p>一、想象，发挥想象</p>
-</li>
-<li>
-<p>二、构思，如何实现</p>
-</li>
-<li>
-<p>三、分工，明确任务
-如何配合，各个模块之间的联系
-阶段目标是什么</p>
-<p>想法+构思=？O+KR
-想法=想法丰富+目标明确+快速迭
-构思=整体把控+只是全面+需求明:</p>
-</li>
-</ul>]]></content:encoded>
-            <category>blog</category>
-            <category>思考</category>
         </item>
         <item>
             <title><![CDATA[碳管理项目梳理]]></title>
