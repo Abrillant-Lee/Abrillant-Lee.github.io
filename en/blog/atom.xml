@@ -9,6 +9,26 @@
     <icon>https://Abrillant-Lee.github.io/en/img/nan.ico</icon>
     <rights>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;CC BY-NC 4.0&lt;/a&gt;&lt;/p&gt;</rights>
     <entry>
+        <title type="html"><![CDATA[小知识点]]></title>
+        <id>https://Abrillant-Lee.github.io/en/blog/knowledge</id>
+        <link href="https://Abrillant-Lee.github.io/en/blog/knowledge"/>
+        <updated>2024-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[小知识点]]></summary>
+        <content type="html"><![CDATA[<p>题目：1000 1010B的十进制数和十六进制数
+我在想从前面只有0和1就可以看出这是个二进制数，那2进制数哪来的B?问了一下chat，原来是我自己的基础不扎实，B是二进制的意思，来指明前面的数字是一个二进制数。</p>
+<p>扩充：从英文单词简称来记忆
+二进制（Binary）：后缀是 B 或者 b。
+八进制（Octal）：后缀是 O 或者 o。
+十进制（Decimal）：后缀是 D 或者 d。
+十六进制（Hex）：后缀是 H 或者 h。</p>]]></content>
+        <author>
+            <name>李浩楠</name>
+            <uri>https://github.com/Abrillant-Lee</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="思考" term="思考"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2023.1.13轻辅培训个人思考]]></title>
         <id>https://Abrillant-Lee.github.io/en/blog/one</id>
         <link href="https://Abrillant-Lee.github.io/en/blog/one"/>

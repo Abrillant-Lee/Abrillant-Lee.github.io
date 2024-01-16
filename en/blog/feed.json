@@ -5,6 +5,22 @@
     "description": "nan Blog",
     "items": [
         {
+            "id": "https://Abrillant-Lee.github.io/en/blog/knowledge",
+            "content_html": "<p>题目：1000 1010B的十进制数和十六进制数\n我在想从前面只有0和1就可以看出这是个二进制数，那2进制数哪来的B?问了一下chat，原来是我自己的基础不扎实，B是二进制的意思，来指明前面的数字是一个二进制数。</p>\n<p>扩充：从英文单词简称来记忆\n二进制（Binary）：后缀是 B 或者 b。\n八进制（Octal）：后缀是 O 或者 o。\n十进制（Decimal）：后缀是 D 或者 d。\n十六进制（Hex）：后缀是 H 或者 h。</p>",
+            "url": "https://Abrillant-Lee.github.io/en/blog/knowledge",
+            "title": "小知识点",
+            "summary": "小知识点",
+            "date_modified": "2024-01-12T00:00:00.000Z",
+            "author": {
+                "name": "李浩楠",
+                "url": "https://github.com/Abrillant-Lee"
+            },
+            "tags": [
+                "blog",
+                "思考"
+            ]
+        },
+        {
             "id": "https://Abrillant-Lee.github.io/en/blog/one",
             "content_html": "<p>我要直面自己的弱点，把面子丢在家里面，总结表达就是我的弱项，我目前是一个会编程的\"高级打工人\"，现在虽然是凌晨，但是如果我脑子里对今天的培训没有一点想法，我不会像以前一样哄骗自己是太晚了，太累了，休息好明天再总结，因为我知道如果我现在没有一点想法就代表我个人就是没有想法，不关天时地利还是人和的问题。</p>\n<p>其实看《我处于崩溃边缘》第一章的时候，俞老师在离开北大的时候说：“我毅然离开了那个极度舒适、安全的区域，选择投身风雨。” 这句话恰恰契合了我当前决心采取的行动。</p>\n<p>其实听老师讲了这么多，我现在的想法就是我要留在这里，这里可以发挥我的价值，也可以持续让我变得更有价值</p>\n<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"以下是记录的一些笔记\">以下是记录的一些笔记：<a href=\"#以下是记录的一些笔记\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h3>\n<ul>\n<li>建模的目的是什么：\n发挥想象、具体化想法、验证可行性</li>\n<li>什么是衍生式设计\n减少耗材、\n最奇特的设计，做奇特设计</li>\n<li>仿真的意义是什么\n快速完成迭代、减少成本、控制过程验证</li>\n</ul>\n<p>如何做一个新项目</p>\n<ul>\n<li>\n<p>一、想象，发挥想象</p>\n</li>\n<li>\n<p>二、构思，如何实现</p>\n</li>\n<li>\n<p>三、分工，明确任务\n如何配合，各个模块之间的联系\n阶段目标是什么</p>\n<p>想法+构思=？O+KR\n想法=想法丰富+目标明确+快速迭\n构思=整体把控+只是全面+需求明:</p>\n</li>\n</ul>",
             "url": "https://Abrillant-Lee.github.io/en/blog/one",

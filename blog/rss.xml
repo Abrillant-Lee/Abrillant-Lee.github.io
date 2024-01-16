@@ -10,6 +10,22 @@
         <language>zh-CN</language>
         <copyright>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;CC BY-NC 4.0&lt;/a&gt;&lt;/p&gt;</copyright>
         <item>
+            <title><![CDATA[小知识点]]></title>
+            <link>https://Abrillant-Lee.github.io/blog/knowledge</link>
+            <guid>https://Abrillant-Lee.github.io/blog/knowledge</guid>
+            <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[小知识点]]></description>
+            <content:encoded><![CDATA[<p>题目：1000 1010B的十进制数和十六进制数
+我在想从前面只有0和1就可以看出这是个二进制数，那2进制数哪来的B?问了一下chat，原来是我自己的基础不扎实，B是二进制的意思，来指明前面的数字是一个二进制数。</p>
+<p>扩充：从英文单词简称来记忆
+二进制（Binary）：后缀是 B 或者 b。
+八进制（Octal）：后缀是 O 或者 o。
+十进制（Decimal）：后缀是 D 或者 d。
+十六进制（Hex）：后缀是 H 或者 h。</p>]]></content:encoded>
+            <category>blog</category>
+            <category>思考</category>
+        </item>
+        <item>
             <title><![CDATA[2023.1.13轻辅培训个人思考]]></title>
             <link>https://Abrillant-Lee.github.io/blog/one</link>
             <guid>https://Abrillant-Lee.github.io/blog/one</guid>
@@ -396,7 +412,7 @@ simlink仿真: 卡尔曼滤波----双环闭环PID控制<br>
             <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[关于博客的思考]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1我为什么要写博客">1、我为什么要写博客?<a href="#1我为什么要写博客" class="hash-link" aria-label="1、我为什么要写博客?的直接链接" title="1、我为什么要写博客?的直接链接">​</a></h2>
-<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="简单来说就是分享">简单来说就是<strong>分享</strong><a href="#简单来说就是分享" class="hash-link" aria-label="简单来说就是分享的直接链接" title="简单来说就是分享的�直接链接">​</a></h4>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="简单来说就是分享">简单来说就是<strong>分享</strong><a href="#简单来说就是分享" class="hash-link" aria-label="简单来说就是分享的直接链接" title="简单来说就是分享的直接链接">​</a></h4>
 <ul>
 <li>1、分享自己写的教程</li>
 <li>2、分享自己的对某一个技术的思考、感悟</li>
