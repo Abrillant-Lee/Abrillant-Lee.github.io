@@ -16,39 +16,14 @@
             <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[抑郁评估-可穿戴设备开发计划]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="物品清单">物品清单：<a href="#物品清单" class="hash-link" aria-label="物品清单：的直接链接" title="物品清单：的直接链接">​</a></h3>
-<p>1、<a href="https://item.taobao.com/item.htm?abbucket=1&amp;id=532146320168&amp;ns=1&amp;spm=a21n57.1.0.0.f2fa523c8wjWC3" target="_blank" rel="noopener noreferrer">脉搏心率传感器模块 心跳感应器 pulsesensor</a>(需购买)<br>
-2、<a href="https://item.taobao.com/item.htm?abbucket=1&amp;id=684295016053&amp;ns=1&amp;spm=a21n57.1.0.0.f2fa523c8wjWC3" target="_blank" rel="noopener noreferrer">1.28寸圆形彩色 LCD液晶屏模块</a>(需购买)<br>
-3、wifi模块,即ESP8266/ESP32(已有)<br>
-4、STM32F103VET6开发板(已有)<br></p>
-<img loading="lazy" src="/img/blog/购买传感器图片.png" width="400" class="img_ev3q">
-<ul>
-<li>问题：
-<ul>
-<li>
-<p>1、为什么要测心率?<br></p>
-<blockquote>
-<p>答：实时心率--&gt;心率变化规律--&gt;心率变异性--&gt;抑郁程度<br></p>
-</blockquote>
-<p>心率变异性（heart rate variability，HRV）就是指心跳和心跳之间快慢的变化情况。HRV越高越好，代表着更好的心血管功能和抗压能力。<br>
-心率变异性和抑郁有关系，因为心率变异性反映了自主神经系统对心脏的调节，而自主神经系统又受到情绪的影响。一般来说，抑郁症患者的心率变异性较低，说明心脏的适应能力较弱，也增加了心血管疾病的风险。</p>
-<img loading="lazy" src="/img/blog/频域分析法.png" width="400" class="img_ev3q">
-</li>
-<li>
-<p>2、lcd屏幕上展示什么内容?<br></p>
-<blockquote>
-<p>答：展示实时心率数据变化</p>
-</blockquote>
-</li>
-<li>
-<p>3、用户最终如何检测？</p>
-<blockquote>
-<p>采用多状态综合测试，用户佩戴上可穿戴手表，点击lcd屏幕上的按钮，进入检测模式，用户根据一体机的语音提示，如下图进行测试，测试时间内数据一直上传华为云平台，同时后端进行数据处理。<br></p>
-<img loading="lazy" src="/img/blog/如何检测.png" class="img_ev3q">
-</blockquote>
-</li>
-</ul>
-</li>
-</ul>
+<p>1、<a href="https://item.taobao.com/item.htm?abbucket=1&amp;id=532146320168&amp;ns=1&amp;spm=a21n57.1.0.0.f2fa523c8wjWC3" target="_blank" rel="noopener noreferrer">脉搏心率传感器模块 心跳感应器 pulsesensor</a>(需购买)<br></p>
+<div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token plain">  购买目的：检测实时心率</span><span class="token operator" style="color:rgb(0, 0, 0)">--</span><span class="token operator" style="color:rgb(0, 0, 0)">&gt;</span><span class="token plain">心率变化规律</span><span class="token operator" style="color:rgb(0, 0, 0)">--</span><span class="token operator" style="color:rgb(0, 0, 0)">&gt;</span><span class="token plain">心率变异性</span><span class="token operator" style="color:rgb(0, 0, 0)">--</span><span class="token operator" style="color:rgb(0, 0, 0)">&gt;</span><span class="token plain">抑郁程度</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>2、<a href="https://item.taobao.com/item.htm?abbucket=1&amp;id=684295016053&amp;ns=1&amp;spm=a21n57.1.0.0.f2fa523c8wjWC3" target="_blank" rel="noopener noreferrer">1.28寸圆形彩色 LCD液晶屏模块</a>(需购买)<br></p>
+<div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token plain">  购买目的：制作可穿戴手表，展示实时心率数据。</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+  <img loading="lazy" src="/img/blog/购买传感器图片.png" width="400" class="img_ev3q">
+<p>3、wifi模块,即ESP8266/ESP32(已有)<br></p>
+<div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token plain">  使用目的：将心率数据传输华为IoTDA平台共，后端进行数据处理。</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>4、STM32F103VET6开发板(已有)<br></p>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="开发计划">开发计划<a href="#开发计划" class="hash-link" aria-label="开发计划的直接链接" title="开发计划的直接链接">​</a></h3>
 <p>1、<a href="#%E7%89%A9%E5%93%81%E6%B8%85%E5%8D%95">物品清单</a>购买<br></p>
 <ul>
@@ -88,13 +63,22 @@
 <li>
 <p>2024年2月5日-2024年2月11日：数据传输</p>
 <ul>
-<li>1、撰写wifi驱动代码，通过wifi模块(即ESP8266/ESP32)，将心率数据传输华为IoTDA平台<br></li>
+<li>
+<p>1、撰写wifi驱动代码，通过wifi模块(即ESP8266/ESP32)，在检测时(10min)实时将心率数据传输华为IoTDA平台<br></p>
+<blockquote>
+<p>采用多状态综合测试，用户佩戴上可穿戴手表，点击lcd屏幕上的按钮，进入检测模式，用户根据一体机的语音提示，如下图进行测试，测试时间内数据一直上传华为云平台，同时后端进行数据处理。<br></p>
+<img loading="lazy" src="/img/blog/如何检测.png" class="img_ev3q">
+</blockquote>
+</li>
 </ul>
 </li>
 <li>
 <p>2024年2月12日-2024年2月31日：最终形态构建</p>
 <ul>
-<li>1、运用嘉立创EDA设计工具(先了解学习)，设计一款PCB电路板，集成脉搏心率传感器模块、1.28寸圆形彩色LCD液晶屏模块、Wi-Fi模块（ESP8266/ESP32）以及STM32F103VET6开发板，打造出一款可穿戴设备，实现从心率监测到数据在华为IoTDA平台上实时传输的完整功能流程。<br></li>
+<li>
+<p>1、运用嘉立创EDA设计工具(先了解学习)，设计一款PCB电路板，集成脉搏心率传感器模块、1.28寸圆形彩色LCD液晶屏模块、Wi-Fi模块（ESP8266/ESP32）以及STM32F103VET6开发板，打造出一款可穿戴设备，实现从心率监测到数据在华为IoTDA平台上实时传输的完整功能流程。<br></p>
+<img loading="lazy" src="/img/blog/最终形态.png" class="img_ev3q">
+</li>
 </ul>
 </li>
 </ul>]]></content:encoded>
