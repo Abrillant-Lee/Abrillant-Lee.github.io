@@ -2,12 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Abrillant-Lee.github.io/en/blog</id>
     <title>nan</title>
-    <updated>2024-01-20T00:00:00.000Z</updated>
+    <updated>2024-01-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Abrillant-Lee.github.io/en/blog"/>
     <subtitle>nan Blog</subtitle>
     <icon>https://Abrillant-Lee.github.io/en/img/nan.ico</icon>
     <rights>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;CC BY-NC 4.0&lt;/a&gt;&lt;/p&gt;</rights>
+    <entry>
+        <title type="html"><![CDATA[STM32F407ZGT6]]></title>
+        <id>https://Abrillant-Lee.github.io/en/blog/stm32f407zgt6</id>
+        <link href="https://Abrillant-Lee.github.io/en/blog/stm32f407zgt6"/>
+        <updated>2024-01-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[STM32F407ZGT6]]></summary>
+        <author>
+            <name>李浩楠</name>
+            <uri>https://github.com/Abrillant-Lee</uri>
+        </author>
+        <category label="STM32" term="STM32"/>
+        <category label="笔记" term="笔记"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抑郁评估-可穿戴设备开发计划]]></title>
         <id>https://Abrillant-Lee.github.io/en/blog/Wearable_device</id>
@@ -503,7 +516,17 @@ simlink仿真: 卡尔曼滤波----双环闭环PID控制<br>
 <p><a href="https://developer.huawei.com/consumer/cn/smarthome" target="_blank" rel="noopener noreferrer">官方简介</a>：HarmonyOS Connect（鸿蒙智联）是华为面向消费领域的智能硬件开放生态，依托华为HarmonyOS、硬件、芯片、云服务等软硬件开放能力，为设备商、解决方案提供商等提供全方位赋能，帮助伙伴设备快速融入华为全场景智慧生活，实现商业共赢。</p>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="harmonyos-connect-智能家居解决方案">HarmonyOS Connect 智能家居解决方案<a href="#harmonyos-connect-智能家居解决方案" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
 <p><a href="https://devicepartner.huawei.com/cn/solutions/industry/smart-home/" target="_blank" rel="noopener noreferrer"> 官方简介 </a>：创造智能、省心、有趣的居家生活体验</p>
-<p>智能家居解决方案，涵盖智能家电、中控交互中心、安防产品和个护产品等端到端领域，具备碰一碰获取服务、多模态交互等分布式交互入口能力，集成智慧生活等云服务及后向运营模式，全方位提升家居体验。</p>]]></content>
+<p>智能家居解决方案，涵盖智能家电、中控交互中心、安防产品和个护产品等端到端领域，具备碰一碰获取服务、多模态交互等分布式交互入口能力，集成智慧生活等云服务及后向运营模式，全方位提升家居体验。</p>
+<ul>
+<li>从208的美的空调入手</li>
+</ul>
+<p><a href="https://mis.midea.com/docs/" target="_blank" rel="noopener noreferrer">美的IoT开发者平台</a></p>
+<p><img loading="lazy" src="/img/blog/美的IoT平台.png" class="img_ev3q"><br></p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="智能家居实现">智能家居实现<a href="#��智能家居实现" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
+<p>使用单片机来解析美的空调的红外遥控信号，然后使用单片机来模拟遥控器的信号就可以达到控制美的空调的效果。
+刚查到美的空调采用的是R05D红外协议，这个协议csdn上有讲解：</p>
+<p><a href="https://blog.csdn.net/weixin_44453694/article/details/118225368" target="_blank" rel="noopener noreferrer">STM32解析美的空调红外遥控器</a></p>
+<p><a href="https://blog.csdn.net/weixin_42204837/article/details/109263771" target="_blank" rel="noopener noreferrer">STM32 R05D电控红外协议的美的空调遥控器</a></p>]]></content>
         <author>
             <name>李浩楠</name>
             <uri>https://github.com/Abrillant-Lee</uri>

@@ -4,18 +4,27 @@
         <title>nan</title>
         <link>https://Abrillant-Lee.github.io/blog</link>
         <description>nan Blog</description>
-        <lastBuildDate>Sat, 20 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <copyright>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;CC BY-NC 4.0&lt;/a&gt;&lt;/p&gt;</copyright>
+        <item>
+            <title><![CDATA[STM32F407ZGT6]]></title>
+            <link>https://Abrillant-Lee.github.io/blog/stm32f407zgt6</link>
+            <guid>https://Abrillant-Lee.github.io/blog/stm32f407zgt6</guid>
+            <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[STM32F407ZGT6]]></description>
+            <category>STM32</category>
+            <category>笔记</category>
+        </item>
         <item>
             <title><![CDATA[抑郁评估-可穿戴设备开发计划]]></title>
             <link>https://Abrillant-Lee.github.io/blog/Wearable_device</link>
             <guid>https://Abrillant-Lee.github.io/blog/Wearable_device</guid>
             <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[抑郁评估-可穿戴设备开发计划]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="物品清单">物品清单：<a href="#物品清单" class="hash-link" aria-label="物品清单：的直接链接" title="物品清单：的直接链接">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="物品清单">物品清单：<a href="#物品清单" class="hash-link" aria-label="物品清单：的直接链接" title="物品��清单：的直接链接">​</a></h3>
 <p>1、<a href="https://item.taobao.com/item.htm?abbucket=1&amp;id=532146320168&amp;ns=1&amp;spm=a21n57.1.0.0.f2fa523c8wjWC3" target="_blank" rel="noopener noreferrer">脉搏心率传感器模块 心跳感应器 pulsesensor</a>(需购买)<br></p>
 <div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token plain">  购买目的：检测实时心率</span><span class="token operator" style="color:rgb(0, 0, 0)">--</span><span class="token operator" style="color:rgb(0, 0, 0)">&gt;</span><span class="token plain">心率变化规律</span><span class="token operator" style="color:rgb(0, 0, 0)">--</span><span class="token operator" style="color:rgb(0, 0, 0)">&gt;</span><span class="token plain">心率变异性</span><span class="token operator" style="color:rgb(0, 0, 0)">--</span><span class="token operator" style="color:rgb(0, 0, 0)">&gt;</span><span class="token plain">抑郁程度</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <p>2、<a href="https://item.taobao.com/item.htm?abbucket=1&amp;id=684295016053&amp;ns=1&amp;spm=a21n57.1.0.0.f2fa523c8wjWC3" target="_blank" rel="noopener noreferrer">1.28寸圆形彩色 LCD液晶屏模块</a>(需购买)<br></p>
@@ -484,7 +493,17 @@ simlink仿真: 卡尔曼滤波----双环闭环PID控制<br>
 <p><a href="https://developer.huawei.com/consumer/cn/smarthome" target="_blank" rel="noopener noreferrer">官方简介</a>：HarmonyOS Connect（鸿蒙智联）是华为面向消费领域的智能硬件开放生态，依托华为HarmonyOS、硬件、芯片、云服务等软硬件开放能力，为设备商、解决方案提供商等提供全方位赋能，帮助伙伴设备快速融入华为全场景智慧生活，实现商业共赢。</p>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="harmonyos-connect-智能家居解决方案">HarmonyOS Connect 智能家居解决方案<a href="#harmonyos-connect-智能家居解决方案" class="hash-link" aria-label="HarmonyOS Connect 智能家居解决方案的直接链接" title="HarmonyOS Connect 智能家居解决方案的直接链接">​</a></h3>
 <p><a href="https://devicepartner.huawei.com/cn/solutions/industry/smart-home/" target="_blank" rel="noopener noreferrer"> 官方简介 </a>：创造智能、省心、有趣的居家生活体验</p>
-<p>智能家居解决方案，涵盖智能家电、中控交互中心、安防产品和个护产品等端到端领域，具备碰一碰获取服务、多模态交互等分布式交互入口能力，集成智慧生活等云服务及后向运营模式，全方位提升家居体验。</p>]]></content:encoded>
+<p>智能家居解决方案，涵盖智能家电、中控交互中心、安防产品和个护产品等端到端领域，具备碰一碰获取服务、多模态交互等分布式交互入口能力，集成智慧生活等云服务及后向运营模式，全方位提升家居体验。</p>
+<ul>
+<li>从208的美的空调入手</li>
+</ul>
+<p><a href="https://mis.midea.com/docs/" target="_blank" rel="noopener noreferrer">美的IoT开发者平台</a></p>
+<p><img loading="lazy" src="/img/blog/美的IoT平台.png" class="img_ev3q"><br></p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="智能家居实现">智能家居实现<a href="#智能家居实现" class="hash-link" aria-label="智能家居实现的直接链接" title="智能家居实现的直接链接">​</a></h3>
+<p>使用单片机来解析美的空调的红外遥控信号，然后使用单片机来模拟遥控器的信号就可以达到控制美的空调的效果。
+刚查到美的空调采用的是R05D红外协议，这个协议csdn上有讲解：</p>
+<p><a href="https://blog.csdn.net/weixin_44453694/article/details/118225368" target="_blank" rel="noopener noreferrer">STM32解析美的空调红外遥控器</a></p>
+<p><a href="https://blog.csdn.net/weixin_42204837/article/details/109263771" target="_blank" rel="noopener noreferrer">STM32 R05D电控红外协议的美的空调遥控器</a></p>]]></content:encoded>
             <category>思考</category>
             <category>项目</category>
         </item>
@@ -494,7 +513,7 @@ simlink仿真: 卡尔曼滤波----双环闭环PID控制<br>
             <guid>https://Abrillant-Lee.github.io/blog/blog_write</guid>
             <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[关于博客的思考]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1我为什么要写博客">1、我为什么要写博客?<a href="#1我为什么要写博客" class="hash-link" aria-label="1、我为什么要写博客?的直接链接" title="1、我为什么要写博客?的直接链接">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1我为什么要写博客">1、我为什么要写博客?<a href="#1我为什么要写博客" class="hash-link" aria-label="1、我为什么要写��博客?的直接链接" title="1、我为什么要写博客?的直接链接">​</a></h2>
 <h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="简单来说就是分享">简单来说就是<strong>分享</strong><a href="#简单来说就是分享" class="hash-link" aria-label="简单来说就是分享的直接链接" title="简单来说就是分享的直接链接">​</a></h4>
 <ul>
 <li>1、分享自己写的教程</li>
