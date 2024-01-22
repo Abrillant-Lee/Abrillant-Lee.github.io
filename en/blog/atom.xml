@@ -2,12 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Abrillant-Lee.github.io/en/blog</id>
     <title>nan</title>
-    <updated>2024-01-21T00:00:00.000Z</updated>
+    <updated>2024-01-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Abrillant-Lee.github.io/en/blog"/>
     <subtitle>nan Blog</subtitle>
     <icon>https://Abrillant-Lee.github.io/en/img/nan.ico</icon>
     <rights>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;CC BY-NC 4.0&lt;/a&gt;&lt;/p&gt;</rights>
+    <entry>
+        <title type="html"><![CDATA[有用资料收集]]></title>
+        <id>https://Abrillant-Lee.github.io/en/blog/other</id>
+        <link href="https://Abrillant-Lee.github.io/en/blog/other"/>
+        <updated>2024-01-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[STM32F103VET6]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="红外��学习模块">红外学习模块<a href="#红外学习模块" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
+<p><a href="https://easydoc.net/doc/55560358/ZasQ4mWD/L6I3rA6z" target="_blank" rel="noopener noreferrer"> 智家物联科技模块常见问题解答 </a></p>
+<p><a href="https://www.bilibili.com/read/cv11469198/" target="_blank" rel="noopener noreferrer">红外学习模块调试过程分享</a></p>
+<p><a href="https://blog.csdn.net/weixin_44048162/article/details/108739482" target="_blank" rel="noopener noreferrer">基于STM32的红外万能遥控器完整教程</a></p>
+<p><a href="https://www.bilibili.com/read/cv14721363/" target="_blank" rel="noopener noreferrer">如何使用红外控制空调</a></p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="心率模块">心率模块<a href="#心率模块" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
+<p><a href="https://www.yuque.com/uzqh1u" target="_blank" rel="noopener noreferrer">唛丁思知瑞售后知识库</a>
+<a target="_blank" href="/en/assets/files/唛丁思知瑞售后知识库-2b665d4ae655dc1ff1bccbc98102b886.png"></a></p>]]></content>
+        <author>
+            <name>李浩楠</name>
+            <uri>https://github.com/Abrillant-Lee</uri>
+        </author>
+        <category label="STM32" term="STM32"/>
+        <category label="笔记" term="笔记"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STM32F407ZGT6]]></title>
         <id>https://Abrillant-Lee.github.io/en/blog/stm32f407zgt6</id>
@@ -326,7 +347,7 @@
         <link href="https://Abrillant-Lee.github.io/en/blog/think"/>
         <updated>2024-01-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[控制工程小组两天训练个人思考总结]]></summary>
-        <content type="html"><![CDATA[<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="一阶倒立摆整体流程">一阶倒立摆整体流程:<a href="#一阶倒立摆整体流程" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="��一阶倒立摆整体流程">一阶倒立摆整体流程:<a href="#一阶倒立摆整体流程" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
 <ul>
 <li>数学建模: 动力学方程推导---&gt;传递函数推导<br>
 &nbsp;&nbsp;&nbsp;&nbsp;⬇️<br>
@@ -514,6 +535,8 @@ simlink仿真: 卡尔曼滤波----双环闭环PID控制<br>
 <p>1、毫米波雷达安放位置，如何控制开关</p>
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="harmonyos-connect调研了解">HarmonyOS Connect调研了解<a href="#harmonyos-connect调研了解" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
 <p><a href="https://developer.huawei.com/consumer/cn/smarthome" target="_blank" rel="noopener noreferrer">官方简介</a>：HarmonyOS Connect（鸿蒙智联）是华为面向消费领域的智能硬件开放生态，依托华为HarmonyOS、硬件、芯片、云服务等软硬件开放能力，为设备商、解决方案提供商等提供全方位赋能，帮助伙伴设备快速融入华为全场景智慧生活，实现商业共赢。</p>
+<hr>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="2024121汇报">2024.1.21汇报<a href="#2024121汇报" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="harmonyos-connect-智能家居解决方案">HarmonyOS Connect 智能家居解决方案<a href="#harmonyos-connect-智能家居解决方案" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
 <p><a href="https://devicepartner.huawei.com/cn/solutions/industry/smart-home/" target="_blank" rel="noopener noreferrer"> 官方简介 </a>：创造智能、省心、有趣的居家生活体验</p>
 <p>智能家居解决方案，涵盖智能家电、中控交互中心、安防产品和个护产品等端到端领域，具备碰一碰获取服务、多模态交互等分布式交互入口能力，集成智慧生活等云服务及后向运营模式，全方位提升家居体验。</p>
@@ -522,11 +545,102 @@ simlink仿真: 卡尔曼滤波----双环闭环PID控制<br>
 </ul>
 <p><a href="https://mis.midea.com/docs/" target="_blank" rel="noopener noreferrer">美的IoT开发者平台</a></p>
 <p><img loading="lazy" src="/img/blog/美的IoT平台.png" class="img_ev3q"><br></p>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="智能家居实现">智能家居实现<a href="#��智能家居实现" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="智能家居实现">智能家居实现<a href="#智能家居实现" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
 <p>使用单片机来解析美的空调的红外遥控信号，然后使用单片机来模拟遥控器的信号就可以达到控制美的空调的效果。
 刚查到美的空调采用的是R05D红外协议，这个协议csdn上有讲解：</p>
 <p><a href="https://blog.csdn.net/weixin_44453694/article/details/118225368" target="_blank" rel="noopener noreferrer">STM32解析美的空调红外遥控器</a></p>
-<p><a href="https://blog.csdn.net/weixin_42204837/article/details/109263771" target="_blank" rel="noopener noreferrer">STM32 R05D电控红外协议的美的空调遥控器</a></p>]]></content>
+<p><a href="https://blog.csdn.net/weixin_42204837/article/details/109263771" target="_blank" rel="noopener noreferrer">STM32 R05D电控红外协议的美的空调遥控器</a></p>
+<ul>
+<li>会后问题：
+<ul>
+<li>1、怎么实现布局 (如果用revit，revit怎么实现)</li>
+<li>2、空调协议问题，其他空调采取什么协议</li>
+<li>3、红外学习查找</li>
+<li>4、智能窗帘</li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="2024122汇报">2024.1.22汇报<a href="#2024122汇报" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1控制208美的空调">1.控制208美的空调<a href="#1控制208美的空调" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
+<blockquote>
+<p>初步实现： 红外学习模块 + 手机遥控 + 电脑</p>
+</blockquote>
+<ul>
+<li>实现原理：手机️➡️红外学习模块➡️电脑(后续用单片机替换)➡️红外发射器➡️空调</li>
+</ul>
+<blockquote>
+<p>手机遥控器发射红外信号，红外学习模块接收到信号后，将信号传递给单片机，单片机将信号解析成红外信号，再通过红外发射器发射出去，从而实现控制空调的目的。</p>
+</blockquote>
+<img loading="lazy" src="/img/blog/红外学习模块.png" width="400" class="img_ev3q">
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="2zigbee">2、ZigBee<a href="#2zigbee" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
+<p>1.为什么要调研ZigBee？ 老师今天提到了、可穿墙体等障碍物、控制距离远<br></p>
+<ul>
+<li>
+<p><span style="color:red;font-size:20px">ZigBee是什么？</span></p>
+<ul>
+<li>Zigbee是一种基于IEEE 802.15.4标准的低功耗、低速率、短距离的无线通信技术，主要应用于物联网和智能硬件等领域。1
+<img loading="lazy" src="/img/blog/zigbee模块.png" width="400" class="img_ev3q">
+</li>
+</ul>
+</li>
+<li>
+<p><span style="color:red;font-size:20px">我们208的空调是否能用ZigBee模块控制？</span></p>
+<ul>
+<li>目前不知道我们208的空调是否支持ZigBee模块，需要查阅空调的说明书，如果支持的话，就可以通过ZigBee模块来控制空调。</li>
+</ul>
+</li>
+<li>
+<p><span style="color:red;font-size:20px">zigbee模块控制美的空调</span></p>
+<ul>
+<li>有一个zigbee网关，连接zigbee模块和智能手机或其他控制设备
+<ul>
+<li>将zigbee模块和zigbee网关配对，使其加入同一个zigbee网络。</li>
+<li>将zigbee网关和您的智能家居平台绑定，使其可以互相通信。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="3热泵空调">3、热泵空调<a href="#3热泵空调" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
+<p>1.为什么要调研热泵空调？ 薛店装修可能会用到，老师多次提到<br>
+2.为什么使用热泵空调?  房间大，热泵效果更好</p>
+<ul>
+<li>
+<p><span style="color:red;font-size:20px">热泵空调是什么？</span></p>
+<p>热泵空调是一种利用热泵技术，来实现制冷和供暖的设备，其实质是热泵。根据热量来源不同，也可以分为空气源热泵空调、水源热泵空调和地源热泵空调。</p>
+</li>
+</ul>
+<blockquote>
+<p>行业里有一种说法叫做——“制冷是本分，制热是实力”。</p>
+</blockquote>
+<ul>
+<li>
+<p><span style="color:red;font-size:20px">热泵空调与普通热泵式空调区别？</span></p>
+<ul>
+<li>使用环境不同，热泵空调可以在47℃~-20℃温度的范围内用，而普通空调只能在21℃~-7℃温度内用。</li>
+<li>功能不同，热泵空调相对偏向于制热，而普通空调偏向于制冷。</li>
+<li>热量释放方式不同，热泵空调将热量释放到水里，以热水为载体进行制热；而普通空调则是直接将热量释放到空气里，直接改变空气温度。</li>
+<li>零部件与材料配置不同，热泵空调的配置比普通空调更高，更抗冻、抗压、抗衰减、抗疲劳、抗高温等。</li>
+<li>设计难度不同，热泵空调的控制器设计更复杂，需要精准调节各零部件的协调性和系统的稳定性。</li>
+</ul>
+</li>
+<li>
+<p><span style="color:red;font-size:20px">热泵空调长什么样子？</span></p>
+<ul>
+<li>热泵空调的外观和普通空调有些相似，什么样都有，挂壁式、立柜式、风管式、风盘式，但也有一些区别。
+<ul>
+<li>热泵空调：室内机+室外机+水箱组成(水箱则是热泵空调的特有部件,室内机和室外机的形状和大小与普通空调差不多，但用于储存热水。)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><span style="color:red;font-size:20px">如何控制热泵空调？</span></p>
+<ul>
+<li>和正常空调控制一样</li>
+</ul>
+</li>
+</ul>]]></content>
         <author>
             <name>李浩楠</name>
             <uri>https://github.com/Abrillant-Lee</uri>
@@ -540,7 +654,7 @@ simlink仿真: 卡尔曼滤波----双环闭环PID控制<br>
         <link href="https://Abrillant-Lee.github.io/en/blog/blog_write"/>
         <updated>2024-01-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[关于博客的思考]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1我为什么要写博客">1、我为什么要写博客?<a href="#1我为什么要写博客" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1我为�什么要写博客">1、我为什么要写博客?<a href="#1我为什么要写博客" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
 <h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="简单来说就是分享">简单来说就是<strong>分享</strong><a href="#简单来说就是分享" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>
 <ul>
 <li>1、分享自己写的教程</li>
