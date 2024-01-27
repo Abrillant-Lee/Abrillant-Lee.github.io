@@ -4,25 +4,66 @@
         <title>nan</title>
         <link>https://Abrillant-Lee.github.io/blog</link>
         <description>nan Blog</description>
-        <lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 10:35:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <copyright>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;CC BY-NC 4.0&lt;/a&gt;&lt;/p&gt;</copyright>
         <item>
+            <title><![CDATA[daily/语句]]></title>
+            <link>https://Abrillant-Lee.github.io/blog/daily/语句</link>
+            <guid>https://Abrillant-Lee.github.io/blog/daily/语句</guid>
+            <pubDate>Sat, 27 Jan 2024 10:35:21 GMT</pubDate>
+            <description><![CDATA["♥君子藏器于身，待时而动……♥"]]></description>
+            <content:encoded><![CDATA[<p>"♥君子藏器于身，待时而动……♥"
+“♥站在巨人的肩膀上，可以更快的到达目的地、拿到更好的成果♥”
+"♥我们读书是为了成为提灯人去照亮黑暗，而不是为了自己有灯而沾沾自喜还要去吹灭别人的蜡烛♥"</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[培讲讲师and培训负责人and培训成员]]></title>
+            <link>https://Abrillant-Lee.github.io/blog/Winter_vacation_training</link>
+            <guid>https://Abrillant-Lee.github.io/blog/Winter_vacation_training</guid>
+            <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[培训讲师and培训负责人]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="我的角色清单">我的角色清单<a href="#我的角色清单" class="hash-link" aria-label="我的角色清单的直接链接" title="我的角色清单的直接链接">​</a></h2>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1培训讲师">1、培训讲师<a href="#1培训讲师" class="hash-link" aria-label="1、培训讲师的直接链接" title="1、培训讲师的直接链接">​</a></h3>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="硬件hi3861培训讲师">硬件Hi3861培训讲师<a href="#硬件hi3861培训讲师" class="hash-link" aria-label="硬件Hi3861培训讲师的直接链接" title="硬件Hi3861培训讲师的直接链接">​</a></h4>
+<p><code>2024-01-24 8:30</code> 第一讲：入门与实践——掌握Hi3861开发环境搭建及基础应用编程
+<code>2024-2-12 10:00</code> 第四讲：Hi3861物联网实现</p>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="数据传输讲师">数据传输讲师<a href="#数据传输讲师" class="hash-link" aria-label="数据传输讲师的直接链接" title="数据传输讲师的直接链接">​</a></h4>
+<p><code>2024-2-3 10:00</code> 第二讲：入门与实践——掌握Hi3861开发环境搭建及基础应用编程
+<code>2024-2-17 10:00</code> 第六讲： 服务器后端Django后端开发，部署服务器并连接MySQL</p>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="控制工程讲师">控制工程讲师<a href="#控制工程讲师" class="hash-link" aria-label="控制工程讲师的直接链接" title="控制工程讲师的直接链接">​</a></h4>
+<p><code>2024-2-xxa 10:00</code> 第六讲：</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="2培训负责人">2、培训负责人<a href="#2培训负责人" class="hash-link" aria-label="2、培训负责人的直接链接" title="2、培训负责人的直接链接">​</a></h3>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="硬件hi3861组内负责人">硬件Hi3861组内负责人<a href="#硬件hi3861组内负责人" class="hash-link" aria-label="硬件Hi3861组内负责人的直接链接" title="硬件Hi3861组内负责人的直接链接">​</a></h4>
+<p>IOT组培训成员：全部新生</p>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="数据传输组内负责人">数据传输组内负责人<a href="#数据传输组内负责人" class="hash-link" aria-label="数据传输组内负责人的直接链接" title="数据传输组内负责人的直接链接">​</a></h4>
+<p>IOT组培训成员：张文杰、张威、李豪、刘俊威、王博、平运宏、谢政茹、陈玉玲、陈依琳</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="3培训成员">3、培训成员<a href="#3培训成员" class="hash-link" aria-label="3、培训成员的直接链接" title="3、培训成员的直接链接">​</a></h3>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="pytorchmindspore框架学习陈新杰">pytorch、mindspore框架学习——陈新杰<a href="#pytorchmindspore框架学习陈新杰" class="hash-link" aria-label="pytorch、mindspore框架学习——陈新杰的直接链接" title="pytorch、mindspore框架学习——陈新杰的直接链接">​</a></h4>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="模型训练调优部署云端边缘丁康佳">模型训练、调优、部署（云端、边缘）——丁康佳<a href="#模型训练调优部署云端边缘丁康佳" class="hash-link" aria-label="模型训练、调优、部署（云端、边缘）——丁康佳的直接链接" title="模型训练、调优、部署（云端、边缘）——丁康佳的直接链接">​</a></h4>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="英语培训">英语培训<a href="#英语培训" class="hash-link" aria-label="英语培训的直接链接" title="英语培训的直接链接">​</a></h4>]]></content:encoded>
+            <category>培训</category>
+            <category>思考</category>
+            <category>blog</category>
+        </item>
+        <item>
             <title><![CDATA[有用资料收集]]></title>
             <link>https://Abrillant-Lee.github.io/blog/other</link>
             <guid>https://Abrillant-Lee.github.io/blog/other</guid>
             <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[STM32F103VET6]]></description>
+            <description><![CDATA[开发过程中有用的资料收集]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="红外学习模块">红外学习模块<a href="#红外学习模块" class="hash-link" aria-label="红外学习模块的直接链接" title="红外学习模块的直接链接">​</a></h2>
 <p><a href="https://easydoc.net/doc/55560358/ZasQ4mWD/L6I3rA6z" target="_blank" rel="noopener noreferrer"> 智家物联科技模块常见问题解答 </a></p>
 <p><a href="https://www.bilibili.com/read/cv11469198/" target="_blank" rel="noopener noreferrer">红外学习模块调试过程分享</a></p>
 <p><a href="https://blog.csdn.net/weixin_44048162/article/details/108739482" target="_blank" rel="noopener noreferrer">基于STM32的红外万能遥控器完整教程</a></p>
 <p><a href="https://www.bilibili.com/read/cv14721363/" target="_blank" rel="noopener noreferrer">如何使用红外控制空调</a></p>
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="心率模块">心率模块<a href="#心率模块" class="hash-link" aria-label="心率模块的直接链接" title="心率模块的直接链接">​</a></h2>
-<p><a href="https://www.yuque.com/uzqh1u" target="_blank" rel="noopener noreferrer">唛丁思知瑞售后知识库</a>
-<a target="_blank" href="/assets/files/唛丁思知瑞售后知识库-2b665d4ae655dc1ff1bccbc98102b886.png"></a></p>]]></content:encoded>
+<p><a href="https://www.yuque.com/uzqh1u" target="_blank" rel="noopener noreferrer">唛丁思知瑞售后知识库</a></p>
+<p><a target="_blank" href="/assets/files/唛丁思知瑞售后知识库-2b665d4ae655dc1ff1bccbc98102b886.png"></a></p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="智能窗帘控制系统">智能窗帘控制系统<a href="#智能窗帘控制系统" class="hash-link" aria-label="智能窗帘控制系统的直接链接" title="智能窗帘控制系统的直接链接">​</a></h2>
+<p><a href="https://blog.csdn.net/xiaolong1126626497/article/details/132799883" target="_blank" rel="noopener noreferrer">基于STM32+华为云IOT设计的智能窗帘控制系统</a></p>]]></content:encoded>
             <category>STM32</category>
             <category>笔记</category>
         </item>
@@ -48,7 +89,7 @@
 <div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token plain">  购买目的：制作可穿戴手表，展示实时心率数据。</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
   <img loading="lazy" src="/img/blog/购买传感器图片.png" width="400" class="img_ev3q">
 <p>3、wifi模块,即ESP8266/ESP32(已有)<br></p>
-<div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token plain">  使用目的：将心率数据传输华为IoTDA平台共，后端进行数据处理。</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token plain">  使用目的：将心率数据传输华为IoTDA平台共，后端进行数据处理。</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代��码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <p>4、STM32F103VET6开发板(已有)<br></p>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="开发计划">开发计划<a href="#开发计划" class="hash-link" aria-label="开发计划的直接链接" title="开发计划的直接链接">​</a></h3>
 <p>1、<a href="#%E7%89%A9%E5%93%81%E6%B8%85%E5%8D%95">物品清单</a>购买<br></p>
@@ -112,22 +153,6 @@
             <category>思考</category>
         </item>
         <item>
-            <title><![CDATA[小知识点]]></title>
-            <link>https://Abrillant-Lee.github.io/blog/knowledge</link>
-            <guid>https://Abrillant-Lee.github.io/blog/knowledge</guid>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[小知识点]]></description>
-            <content:encoded><![CDATA[<p>题目：1000 1010B的十进制数和十六进制数
-我在想从前面只有0和1就可以看出这是个二进制数，那2进制数哪来的B?问了一下chat，原来是我自己的基础不扎实，B是二进制的意思，来指明前面的数字是一个二进制数。</p>
-<p>扩充：从英文单词简称来记忆
-二进制（Binary）：后缀是 B 或者 b。
-八进制（Octal）：后缀是 O 或者 o。
-十进制（Decimal）：后缀是 D 或者 d。
-十六进制（Hex）：后缀是 H 或者 h。</p>]]></content:encoded>
-            <category>blog</category>
-            <category>思考</category>
-        </item>
-        <item>
             <title><![CDATA[2023.1.13轻辅培训个人思考]]></title>
             <link>https://Abrillant-Lee.github.io/blog/one</link>
             <guid>https://Abrillant-Lee.github.io/blog/one</guid>
@@ -167,6 +192,77 @@
             <category>思考</category>
         </item>
         <item>
+            <title><![CDATA[小知识点]]></title>
+            <link>https://Abrillant-Lee.github.io/blog/knowledge</link>
+            <guid>https://Abrillant-Lee.github.io/blog/knowledge</guid>
+            <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[小知识点]]></description>
+            <content:encoded><![CDATA[<p>题目：1000 1010B的十进制数和十六进制数
+我在想从前面只有0和1就可以看出这是个二进制数，那2进制数哪来的B?问了一下chat，原来是我自己的基础不扎实，B是二进制的意思，来指明前面的数字是一个二进制数。</p>
+<p>扩充：从英文单词简称来记忆
+二进制（Binary）：后缀是 B 或者 b。
+八进制（Octal）：后缀是 O 或者 o。
+十进制（Decimal）：后缀是 D 或者 d。
+十六进制（Hex）：后缀是 H 或者 h。</p>]]></content:encoded>
+            <category>blog</category>
+            <category>思考</category>
+        </item>
+        <item>
+            <title><![CDATA[控制工程小组]]></title>
+            <link>https://Abrillant-Lee.github.io/blog/think</link>
+            <guid>https://Abrillant-Lee.github.io/blog/think</guid>
+            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[控制工程小组两天训练个人思考总结]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="一阶倒立摆整体流程">一阶倒立摆整体流程:<a href="#一阶倒立摆整体流程" class="hash-link" aria-label="一阶倒立摆整体流程:的直接链接" title="一阶倒立摆整体流程:的直接链接">​</a></h3>
+<ul>
+<li>数学建模: 动力学方程推导---&gt;传递函数推导<br>
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️<br>
+simlink仿真: 卡尔曼滤波----双环闭环PID控制<br>
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️<br>
+机电联合仿真<br>
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️<br>
+写代码+搭实物<br>
+&nbsp;&nbsp;&nbsp;&nbsp;⬇️<br>
+调pid</li>
+</ul>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="个人总结">个人总结<a href="#个人总结" class="hash-link" aria-label="个人总结的直接链接" title="个人总结的直接链接">​</a></h3>
+<ul>
+<li>
+<p>数学建模</p>
+<p>首次深切体验到数学的重要性，我想分享一个在数学建模中遇到的公式给大家体会一下，相信任谁初次接触都会觉得有些困惑，甚至有种想要暂且退后几步细细思考的冲动。我自己在23年暑假时也曾面对这样的迷惑而选择暂时搁置，选择了逃避而非深入学习。然而，深知应当正视那些看似复杂的知识，因此认识到数学这门学科的重要地位是无可替代的。
+<img loading="lazy" src="/img/blog/PID/公示.png" width="400" class="img_ev3q"></p>
+<p>这里强烈推荐学长屡次提及的UP主DR_CAN的课程，我后续会补CAN大神的课，通过学习其控制理论系列课程来深化数学建模方面的理解与应用。</p>
+  <img loading="lazy" src="/img/blog/PID/DR_CAN.png" width="400" class="img_ev3q">
+</li>
+<li>
+<p>simlink仿真</p>
+<p>这一块是请教控制工程小组杨景盛同学，给我的感受是simlink建模的流程并非复杂难解，需要选用指定的元器件，然后把数学建模得到的传递函数结果放进去即可，复杂的是调整参数。</p>
+</li>
+<li>
+<p>写pid代码</p>
+<p>......(正在更新)</p>
+</li>
+<li>
+<p>近期规划：</p>
+<ul>
+<li>倒立摆结项报告、机电联合仿真</li>
+</ul>
+</li>
+<li>
+<p>后续规划:</p>
+<ul>
+<li>加上昇腾，进行数据计算，弄个屏幕华漕进行动态调节pid</li>
+<li>1、全流程走一遍</li>
+<li>2、二轮平衡车</li>
+<li>3、二阶倒立摆</li>
+<li>4、自制倒立摆出售</li>
+</ul>
+</li>
+</ul>]]></content:encoded>
+            <category>PID</category>
+            <category>控制工程</category>
+        </item>
+        <item>
             <title><![CDATA[PID原理与应用]]></title>
             <link>https://Abrillant-Lee.github.io/blog/pid</link>
             <guid>https://Abrillant-Lee.github.io/blog/pid</guid>
@@ -199,7 +295,7 @@
 <ul>
 <li>如果偏差为0,则比例环节不起作用</li>
 <li>积分环节主要是用来消除静差，所谓静差，就是系统稳定后输出值和设定值之间的差值，积分环节实际上就是偏差累计的过程 把累计的误差加到原有系统上以抵消系统造成的静差，</li>
-<li>而微分信号则反应了偏差信号的变 化规律，也可以说是变化趋势，根据偏差信号的变化趋势来进行超前调节，从而增加了 系统的预知性</li>
+<li>而微分信号则反应了偏差信号的变 化规律，也可以说是变化趋势，根据偏差信号的变化趋势来进行超前调节，从而增加了 <strong>系统的预知性</strong></li>
 </ul>
 </li>
 </ul>
@@ -319,67 +415,12 @@
             <category>控制工程</category>
         </item>
         <item>
-            <title><![CDATA[控制工程小组]]></title>
-            <link>https://Abrillant-Lee.github.io/blog/think</link>
-            <guid>https://Abrillant-Lee.github.io/blog/think</guid>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[控制工程小组两天训练个人思考总结]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="一阶倒立摆整体流程">一阶倒立摆整体流程:<a href="#一阶倒立摆整体流程" class="hash-link" aria-label="一阶倒立摆整体流程:的直接链接" title="一阶倒立摆整体流程:的直接链接">​</a></h3>
-<ul>
-<li>数学建模: 动力学方程推导---&gt;传递函数推导<br>
-&nbsp;&nbsp;&nbsp;&nbsp;⬇️<br>
-simlink仿真: 卡尔曼滤波----双环闭环PID控制<br>
-&nbsp;&nbsp;&nbsp;&nbsp;⬇️<br>
-机电联合仿真<br>
-&nbsp;&nbsp;&nbsp;&nbsp;⬇️<br>
-写代码+搭实物<br>
-&nbsp;&nbsp;&nbsp;&nbsp;⬇️<br>
-调pid</li>
-</ul>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="个人总结">个人总结<a href="#个人总结" class="hash-link" aria-label="个人总结的直接链接" title="个人总结的直接链接">​</a></h3>
-<ul>
-<li>
-<p>数学建模</p>
-<p>首次深切体验到数学的重要性，我想分享一个在数学建模中遇到的公式给大家体会一下，相信任谁初次接触都会觉得有些困惑，甚至有种想要暂且退后几步细细思考的冲动。我自己在23年暑假时也曾面对这样的迷惑而选择暂时搁置，选择了逃避而非深入学习。然而，深知应当正视那些看似复杂的知识，因此认识到数学这门学科的重要地位是无可替代的。
-<img loading="lazy" src="/img/blog/PID/公示.png" width="400" class="img_ev3q"></p>
-<p>这里强烈推荐学长屡次提及的UP主DR_CAN的课程，我后续会补CAN大神的课，通过学习其控制理论系列课程来深化数学建模方面的理解与应用。</p>
-  <img loading="lazy" src="/img/blog/PID/DR_CAN.png" width="400" class="img_ev3q">
-</li>
-<li>
-<p>simlink仿真</p>
-<p>这一块是请教控制工程小组杨景盛同学，给我的感受是simlink建模的流程并非复杂难解，需要选用指定的元器件，然后把数学建模得到的传递函数结果放进去即可，复杂的是调整参数。</p>
-</li>
-<li>
-<p>写pid代码</p>
-<p>......(正在更新)</p>
-</li>
-<li>
-<p>近期规划：</p>
-<ul>
-<li>倒立摆结项报告、机电联合仿真</li>
-</ul>
-</li>
-<li>
-<p>后续规划:</p>
-<ul>
-<li>加上昇腾，进行数据计算，弄个屏幕华漕进行动态调节pid</li>
-<li>1、全流程走一遍</li>
-<li>2、二轮平衡车</li>
-<li>3、二阶倒立摆</li>
-<li>4、自制倒立摆出售</li>
-</ul>
-</li>
-</ul>]]></content:encoded>
-            <category>PID</category>
-            <category>控制工程</category>
-        </item>
-        <item>
             <title><![CDATA[碳管理项目梳理]]></title>
             <link>https://Abrillant-Lee.github.io/blog/sct</link>
             <guid>https://Abrillant-Lee.github.io/blog/sct</guid>
             <pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[碳管理项目梳理]]></description>
-            <content:encoded><![CDATA[<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="名词理解">名词理解<a href="#名��词理解" class="hash-link" aria-label="名词理解的直接链接" title="名词理解的直接链接">​</a></h3>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="名词理解">名词理解<a href="#名词理解" class="hash-link" aria-label="名词理解的直接链接" title="名词理解的直接链接">​</a></h3>
 <blockquote>
 <p>碳源、碳汇、碳达峰、碳中和</p>
 </blockquote>
