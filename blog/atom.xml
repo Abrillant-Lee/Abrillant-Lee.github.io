@@ -2,22 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Abrillant-Lee.github.io/blog</id>
     <title>nan</title>
-    <updated>2024-01-27T10:35:21.000Z</updated>
+    <updated>2024-01-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Abrillant-Lee.github.io/blog"/>
     <subtitle>nan Blog</subtitle>
     <icon>https://Abrillant-Lee.github.io/img/nan.ico</icon>
     <rights>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;CC BY-NC 4.0&lt;/a&gt;&lt;/p&gt;</rights>
-    <entry>
-        <title type="html"><![CDATA[daily/语句]]></title>
-        <id>https://Abrillant-Lee.github.io/blog/daily/语句</id>
-        <link href="https://Abrillant-Lee.github.io/blog/daily/语句"/>
-        <updated>2024-01-27T10:35:21.000Z</updated>
-        <summary type="html"><![CDATA["♥君子藏器于身，待时而动……♥"]]></summary>
-        <content type="html"><![CDATA[<p>"♥君子藏器于身，待时而动……♥"
-“♥站在巨人的肩膀上，可以更快的到达目的地、拿到更好的成果♥”
-"♥我们读书是为了成为提灯人去照亮黑暗，而不是为了自己有灯而沾沾自喜还要去吹灭别人的蜡烛♥"</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[培讲讲师and培训负责人and培训成员]]></title>
         <id>https://Abrillant-Lee.github.io/blog/Winter_vacation_training</id>
@@ -75,16 +65,19 @@
         <category label="笔记" term="笔记"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[STM32F407ZGT6]]></title>
-        <id>https://Abrillant-Lee.github.io/blog/stm32f407zgt6</id>
-        <link href="https://Abrillant-Lee.github.io/blog/stm32f407zgt6"/>
-        <updated>2024-01-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[STM32F407ZGT6]]></summary>
+        <title type="html"><![CDATA[daily/语句]]></title>
+        <id>https://Abrillant-Lee.github.io/blog/sentences</id>
+        <link href="https://Abrillant-Lee.github.io/blog/sentences"/>
+        <updated>2024-01-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA["♥君子藏器于身，待时而动……♥"]]></summary>
+        <content type="html"><![CDATA[<p>"♥君子藏器于身，待时而动……♥"
+“♥站在巨人的肩膀上，可以更快的到达目的地、拿到更好的成果♥”
+"♥我们读书是为了成为提灯人去照亮黑暗，而不是为了自己有灯而沾沾自喜还要去吹灭别人的蜡烛♥"</p>]]></content>
         <author>
             <name>李浩楠</name>
             <uri>https://github.com/Abrillant-Lee</uri>
         </author>
-        <category label="STM32" term="STM32"/>
+        <category label="语句" term="语句"/>
         <category label="笔记" term="笔记"/>
     </entry>
     <entry>
@@ -100,7 +93,7 @@
 <div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token plain">  购买目的：制作可穿戴手表，展示实时心率数据。</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
   <img loading="lazy" src="/img/blog/购买传感器图片.png" width="400" class="img_ev3q">
 <p>3、wifi模块,即ESP8266/ESP32(已有)<br></p>
-<div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token plain">  使用目的：将心率数据传输华为IoTDA平台共，后端进行数据处理。</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代��码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#000000;--prism-background-color:#ffffff"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#000000"><span class="token plain">  使用目的：将心率数据传输华为IoTDA平台共，后端进行数据处理。</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <p>4、STM32F103VET6开发板(已有)<br></p>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="开发计划">开发计划<a href="#开发计划" class="hash-link" aria-label="开发计划的直接链接" title="开发计划的直接链接">​</a></h3>
 <p>1、<a href="#%E7%89%A9%E5%93%81%E6%B8%85%E5%8D%95">物品清单</a>购买<br></p>
@@ -203,26 +196,6 @@
 构思=整体把控+只是全面+需求明:</p>
 </li>
 </ul>]]></content>
-        <author>
-            <name>李浩楠</name>
-            <uri>https://github.com/Abrillant-Lee</uri>
-        </author>
-        <category label="blog" term="blog"/>
-        <category label="思考" term="思考"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小知识点]]></title>
-        <id>https://Abrillant-Lee.github.io/blog/knowledge</id>
-        <link href="https://Abrillant-Lee.github.io/blog/knowledge"/>
-        <updated>2024-01-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[小知识点]]></summary>
-        <content type="html"><![CDATA[<p>题目：1000 1010B的十进制数和十六进制数
-我在想从前面只有0和1就可以看出这是个二进制数，那2进制数哪来的B?问了一下chat，原来是我自己的基础不扎实，B是二进制的意思，来指明前面的数字是一个二进制数。</p>
-<p>扩充：从英文单词简称来记忆
-二进制（Binary）：后缀是 B 或者 b。
-八进制（Octal）：后缀是 O 或者 o。
-十进制（Decimal）：后缀是 D 或者 d。
-十六进制（Hex）：后缀是 H 或者 h。</p>]]></content>
         <author>
             <name>李浩楠</name>
             <uri>https://github.com/Abrillant-Lee</uri>

@@ -2,22 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Abrillant-Lee.github.io/en/blog</id>
     <title>nan</title>
-    <updated>2024-01-27T10:35:21.000Z</updated>
+    <updated>2024-01-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Abrillant-Lee.github.io/en/blog"/>
     <subtitle>nan Blog</subtitle>
     <icon>https://Abrillant-Lee.github.io/en/img/nan.ico</icon>
     <rights>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;CC BY-NC 4.0&lt;/a&gt;&lt;/p&gt;</rights>
-    <entry>
-        <title type="html"><![CDATA[daily/语句]]></title>
-        <id>https://Abrillant-Lee.github.io/en/blog/daily/语句</id>
-        <link href="https://Abrillant-Lee.github.io/en/blog/daily/语句"/>
-        <updated>2024-01-27T10:35:21.000Z</updated>
-        <summary type="html"><![CDATA["♥君子藏器于身，待时而动……♥"]]></summary>
-        <content type="html"><![CDATA[<p>"♥君子藏器于身，待时而动……♥"
-“♥站在巨人的肩膀上，可以更快的到达目的地、拿到更好的成果♥”
-"♥我们读书是为了成为提灯人去照亮黑暗，而不是为了自己有灯而沾沾自喜还要去吹灭别人的蜡烛♥"</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[培讲讲师and培训负责人and培训成员]]></title>
         <id>https://Abrillant-Lee.github.io/en/blog/Winter_vacation_training</id>
@@ -35,7 +25,7 @@
 <h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="控制工程讲师">控制工程讲师<a href="#控制工程讲师" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>
 <p><code>2024-2-xxa 10:00</code> 第六讲：</p>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="2培训负责人">2、培训负责人<a href="#2培训负责人" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
-<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="硬件hi3861组内负责人">硬件Hi3861组内负责人<a href="#�硬件hi3861组内负责人" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="硬件hi3861组内负责人">硬件Hi3861组内负责人<a href="#硬件hi3861组内负责人" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>
 <p>IOT组培训成员：全部新生</p>
 <h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="数据传输组内负责人">数据传输组内负责人<a href="#数据传输组内负责人" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>
 <p>IOT组培训成员：张文杰、张威、李豪、刘俊威、王博、平运宏、谢政茹、陈玉玲、陈依琳</p>
@@ -57,7 +47,7 @@
         <link href="https://Abrillant-Lee.github.io/en/blog/other"/>
         <updated>2024-01-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[开发过程中有用的资料收集]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="红外学习模块">红外学习模块<a href="#红外学习模块" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="红外学习模块">红外学习模块<a href="#红�外学习模块" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
 <p><a href="https://easydoc.net/doc/55560358/ZasQ4mWD/L6I3rA6z" target="_blank" rel="noopener noreferrer"> 智家物联科技模块常见问题解答 </a></p>
 <p><a href="https://www.bilibili.com/read/cv11469198/" target="_blank" rel="noopener noreferrer">红外学习模块调试过程分享</a></p>
 <p><a href="https://blog.csdn.net/weixin_44048162/article/details/108739482" target="_blank" rel="noopener noreferrer">基于STM32的红外万能遥控器完整教程</a></p>
@@ -75,16 +65,19 @@
         <category label="笔记" term="笔记"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[STM32F407ZGT6]]></title>
-        <id>https://Abrillant-Lee.github.io/en/blog/stm32f407zgt6</id>
-        <link href="https://Abrillant-Lee.github.io/en/blog/stm32f407zgt6"/>
-        <updated>2024-01-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[STM32F407ZGT6]]></summary>
+        <title type="html"><![CDATA[daily/语句]]></title>
+        <id>https://Abrillant-Lee.github.io/en/blog/sentences</id>
+        <link href="https://Abrillant-Lee.github.io/en/blog/sentences"/>
+        <updated>2024-01-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA["♥君子藏器于身，待时而动……♥"]]></summary>
+        <content type="html"><![CDATA[<p>"♥君子藏器于身，待时而动……♥"
+“♥站在巨人的肩膀上，可以更快的到达目的地、拿到更好的成果♥”
+"♥我们读书是为了成为提灯人去照亮黑暗，而不是为了自己有灯而沾沾自喜还要去吹灭别人的蜡烛♥"</p>]]></content>
         <author>
             <name>李浩楠</name>
             <uri>https://github.com/Abrillant-Lee</uri>
         </author>
-        <category label="STM32" term="STM32"/>
+        <category label="语句" term="语句"/>
         <category label="笔记" term="笔记"/>
     </entry>
     <entry>
@@ -203,26 +196,6 @@
 构思=整体把控+只是全面+需求明:</p>
 </li>
 </ul>]]></content>
-        <author>
-            <name>李浩楠</name>
-            <uri>https://github.com/Abrillant-Lee</uri>
-        </author>
-        <category label="blog" term="blog"/>
-        <category label="思考" term="思考"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小知识点]]></title>
-        <id>https://Abrillant-Lee.github.io/en/blog/knowledge</id>
-        <link href="https://Abrillant-Lee.github.io/en/blog/knowledge"/>
-        <updated>2024-01-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[小知识点]]></summary>
-        <content type="html"><![CDATA[<p>题目：1000 1010B的十进制数和十六进制数
-我在想从前面只有0和1就可以看出这是个二进制数，那2进制数哪来的B?问了一下chat，原来是我自己的基础不扎实，B是二进制的意思，来指明前面的数字是一个二进制数。</p>
-<p>扩充：从英文单词简称来记忆
-二进制（Binary）：后缀是 B 或者 b。
-八进制（Octal）：后缀是 O 或者 o。
-十进制（Decimal）：后缀是 D 或者 d。
-十六进制（Hex）：后缀是 H 或者 h。</p>]]></content>
         <author>
             <name>李浩楠</name>
             <uri>https://github.com/Abrillant-Lee</uri>

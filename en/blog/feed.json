@@ -5,17 +5,8 @@
     "description": "nan Blog",
     "items": [
         {
-            "id": "https://Abrillant-Lee.github.io/en/blog/daily/语句",
-            "content_html": "<p>\"♥君子藏器于身，待时而动……♥\"\n“♥站在巨人的肩膀上，可以更快的到达目的地、拿到更好的成果♥”\n\"♥我们读书是为了成为提灯人去照亮黑暗，而不是为了自己有灯而沾沾自喜还要去吹灭别人的蜡烛♥\"</p>",
-            "url": "https://Abrillant-Lee.github.io/en/blog/daily/语句",
-            "title": "daily/语句",
-            "summary": "\"♥君子藏器于身，待时而动……♥\"",
-            "date_modified": "2024-01-27T10:35:21.000Z",
-            "tags": []
-        },
-        {
             "id": "https://Abrillant-Lee.github.io/en/blog/Winter_vacation_training",
-            "content_html": "<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"我的角色清单\">我的角色清单<a href=\"#我的角色清单\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h2>\n<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"1培训讲师\">1、培训讲师<a href=\"#1培训讲师\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h3>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"硬件hi3861培训讲师\">硬件Hi3861培训讲师<a href=\"#硬件hi3861培训讲师\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<p><code>2024-01-24 8:30</code> 第一讲：入门与实践——掌握Hi3861开发环境搭建及基础应用编程\n<code>2024-2-12 10:00</code> 第四讲：Hi3861物联网实现</p>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"数据传输讲师\">数据传输讲师<a href=\"#数据传输讲师\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<p><code>2024-2-3 10:00</code> 第二讲：入门与实践——掌握Hi3861开发环境搭建及基础应用编程\n<code>2024-2-17 10:00</code> 第六讲： 服务器后端Django后端开发，部署服务器并连接MySQL</p>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"控制工程讲师\">控制工程讲师<a href=\"#控制工程讲师\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<p><code>2024-2-xxa 10:00</code> 第六讲：</p>\n<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"2培训负责人\">2、培训负责人<a href=\"#2培训负责人\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h3>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"硬件hi3861组内负责人\">硬件Hi3861组内负责人<a href=\"#�硬件hi3861组内负责人\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<p>IOT组培训成员：全部新生</p>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"数据传输组内负责人\">数据传输组内负责人<a href=\"#数据传输组内负责人\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<p>IOT组培训成员：张文杰、张威、李豪、刘俊威、王博、平运宏、谢政茹、陈玉玲、陈依琳</p>\n<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"3培训成员\">3、培训成员<a href=\"#3培训成员\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h3>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"pytorchmindspore框架学习陈新杰\">pytorch、mindspore框架学习——陈新杰<a href=\"#pytorchmindspore框架学习陈新杰\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"模型训练调优部署云端边缘丁康佳\">模型训练、调优、部署（云端、边缘）——丁康佳<a href=\"#模型训练调优部署云端边缘丁康佳\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"英语培训\">英语培训<a href=\"#英语培训\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>",
+            "content_html": "<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"我的角色清单\">我的角色清单<a href=\"#我的角色清单\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h2>\n<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"1培训讲师\">1、培训讲师<a href=\"#1培训讲师\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h3>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"硬件hi3861培训讲师\">硬件Hi3861培训讲师<a href=\"#硬件hi3861培训讲师\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<p><code>2024-01-24 8:30</code> 第一讲：入门与实践——掌握Hi3861开发环境搭建及基础应用编程\n<code>2024-2-12 10:00</code> 第四讲：Hi3861物联网实现</p>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"数据传输讲师\">数据传输讲师<a href=\"#数据传输讲师\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<p><code>2024-2-3 10:00</code> 第二讲：入门与实践——掌握Hi3861开发环境搭建及基础应用编程\n<code>2024-2-17 10:00</code> 第六讲： 服务器后端Django后端开发，部署服务器并连接MySQL</p>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"控制工程讲师\">控制工程讲师<a href=\"#控制工程讲师\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<p><code>2024-2-xxa 10:00</code> 第六讲：</p>\n<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"2培训负责人\">2、培训负责人<a href=\"#2培训负责人\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h3>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"硬件hi3861组内负责人\">硬件Hi3861组内负责人<a href=\"#硬件hi3861组内负责人\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<p>IOT组培训成员：全部新生</p>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"数据传输组内负责人\">数据传输组内负责人<a href=\"#数据传输组内负责人\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<p>IOT组培训成员：张文杰、张威、李豪、刘俊威、王博、平运宏、谢政茹、陈玉玲、陈依琳</p>\n<h3 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"3培训成员\">3、培训成员<a href=\"#3培训成员\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h3>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"pytorchmindspore框架学习陈新杰\">pytorch、mindspore框架学习——陈新杰<a href=\"#pytorchmindspore框架学习陈新杰\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"模型训练调优部署云端边缘丁康佳\">模型训练、调优、部署（云端、边缘）——丁康佳<a href=\"#模型训练调优部署云端边缘丁康佳\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>\n<h4 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"英语培训\">英语培训<a href=\"#英语培训\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h4>",
             "url": "https://Abrillant-Lee.github.io/en/blog/Winter_vacation_training",
             "title": "培讲讲师and培训负责人and培训成员",
             "summary": "培训讲师and培训负责人",
@@ -32,7 +23,7 @@
         },
         {
             "id": "https://Abrillant-Lee.github.io/en/blog/other",
-            "content_html": "<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"红外学习模块\">红外学习模块<a href=\"#红外学习模块\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h2>\n<p><a href=\"https://easydoc.net/doc/55560358/ZasQ4mWD/L6I3rA6z\" target=\"_blank\" rel=\"noopener noreferrer\"> 智家物联科技模块常见问题解答 </a></p>\n<p><a href=\"https://www.bilibili.com/read/cv11469198/\" target=\"_blank\" rel=\"noopener noreferrer\">红外学习模块调试过程分享</a></p>\n<p><a href=\"https://blog.csdn.net/weixin_44048162/article/details/108739482\" target=\"_blank\" rel=\"noopener noreferrer\">基于STM32的红外万能遥控器完整教程</a></p>\n<p><a href=\"https://www.bilibili.com/read/cv14721363/\" target=\"_blank\" rel=\"noopener noreferrer\">如何使用红外控制空调</a></p>\n<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"心率模块\">心率模块<a href=\"#心率模块\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h2>\n<p><a href=\"https://www.yuque.com/uzqh1u\" target=\"_blank\" rel=\"noopener noreferrer\">唛丁思知瑞售后知识库</a></p>\n<p><a target=\"_blank\" href=\"/en/assets/files/唛丁思知瑞售后知识库-2b665d4ae655dc1ff1bccbc98102b886.png\"></a></p>\n<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"智能窗帘控制系统\">智能窗帘控制系统<a href=\"#智能窗帘控制系统\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h2>\n<p><a href=\"https://blog.csdn.net/xiaolong1126626497/article/details/132799883\" target=\"_blank\" rel=\"noopener noreferrer\">基于STM32+华为云IOT设计的智能窗帘控制系统</a></p>",
+            "content_html": "<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"红外学习模块\">红外学习模块<a href=\"#红�外学习模块\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h2>\n<p><a href=\"https://easydoc.net/doc/55560358/ZasQ4mWD/L6I3rA6z\" target=\"_blank\" rel=\"noopener noreferrer\"> 智家物联科技模块常见问题解答 </a></p>\n<p><a href=\"https://www.bilibili.com/read/cv11469198/\" target=\"_blank\" rel=\"noopener noreferrer\">红外学习模块调试过程分享</a></p>\n<p><a href=\"https://blog.csdn.net/weixin_44048162/article/details/108739482\" target=\"_blank\" rel=\"noopener noreferrer\">基于STM32的红外万能遥控器完整教程</a></p>\n<p><a href=\"https://www.bilibili.com/read/cv14721363/\" target=\"_blank\" rel=\"noopener noreferrer\">如何使用红外控制空调</a></p>\n<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"心率模块\">心率模块<a href=\"#心率模块\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h2>\n<p><a href=\"https://www.yuque.com/uzqh1u\" target=\"_blank\" rel=\"noopener noreferrer\">唛丁思知瑞售后知识库</a></p>\n<p><a target=\"_blank\" href=\"/en/assets/files/唛丁思知瑞售后知识库-2b665d4ae655dc1ff1bccbc98102b886.png\"></a></p>\n<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"智能窗帘控制系统\">智能窗帘控制系统<a href=\"#智能窗帘控制系统\" class=\"hash-link\" aria-label=\"Direct link to heading\" title=\"Direct link to heading\">​</a></h2>\n<p><a href=\"https://blog.csdn.net/xiaolong1126626497/article/details/132799883\" target=\"_blank\" rel=\"noopener noreferrer\">基于STM32+华为云IOT设计的智能窗帘控制系统</a></p>",
             "url": "https://Abrillant-Lee.github.io/en/blog/other",
             "title": "有用资料收集",
             "summary": "开发过程中有用的资料收集",
@@ -47,18 +38,18 @@
             ]
         },
         {
-            "id": "https://Abrillant-Lee.github.io/en/blog/stm32f407zgt6",
-            "content_html": "",
-            "url": "https://Abrillant-Lee.github.io/en/blog/stm32f407zgt6",
-            "title": "STM32F407ZGT6",
-            "summary": "STM32F407ZGT6",
-            "date_modified": "2024-01-21T00:00:00.000Z",
+            "id": "https://Abrillant-Lee.github.io/en/blog/sentences",
+            "content_html": "<p>\"♥君子藏器于身，待时而动……♥\"\n“♥站在巨人的肩膀上，可以更快的到达目的地、拿到更好的成果♥”\n\"♥我们读书是为了成为提灯人去照亮黑暗，而不是为了自己有灯而沾沾自喜还要去吹灭别人的蜡烛♥\"</p>",
+            "url": "https://Abrillant-Lee.github.io/en/blog/sentences",
+            "title": "daily/语句",
+            "summary": "\"♥君子藏器于身，待时而动……♥\"",
+            "date_modified": "2024-01-22T00:00:00.000Z",
             "author": {
                 "name": "李浩楠",
                 "url": "https://github.com/Abrillant-Lee"
             },
             "tags": [
-                "STM32",
+                "语句",
                 "笔记"
             ]
         },
@@ -84,22 +75,6 @@
             "url": "https://Abrillant-Lee.github.io/en/blog/one",
             "title": "2023.1.13轻辅培训个人思考",
             "summary": "2023.1.13轻辅培训个人思考",
-            "date_modified": "2024-01-12T00:00:00.000Z",
-            "author": {
-                "name": "李浩楠",
-                "url": "https://github.com/Abrillant-Lee"
-            },
-            "tags": [
-                "blog",
-                "思考"
-            ]
-        },
-        {
-            "id": "https://Abrillant-Lee.github.io/en/blog/knowledge",
-            "content_html": "<p>题目：1000 1010B的十进制数和十六进制数\n我在想从前面只有0和1就可以看出这是个二进制数，那2进制数哪来的B?问了一下chat，原来是我自己的基础不扎实，B是二进制的意思，来指明前面的数字是一个二进制数。</p>\n<p>扩充：从英文单词简称来记忆\n二进制（Binary）：后缀是 B 或者 b。\n八进制（Octal）：后缀是 O 或者 o。\n十进制（Decimal）：后缀是 D 或者 d。\n十六进制（Hex）：后缀是 H 或者 h。</p>",
-            "url": "https://Abrillant-Lee.github.io/en/blog/knowledge",
-            "title": "小知识点",
-            "summary": "小知识点",
             "date_modified": "2024-01-12T00:00:00.000Z",
             "author": {
                 "name": "李浩楠",
