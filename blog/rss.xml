@@ -44,16 +44,26 @@
             <guid>https://Abrillant-Lee.github.io/blog/other</guid>
             <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[开发过程中有用的资料收集]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="红外学习模块">红外学习模块<a href="#红外学习模块" class="hash-link" aria-label="红外学习模块的直接链接" title="红外学习模块的直接链接">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="红外学习模--红外学习模块">红外学习模- <a href="#%E7%BA%A2%E5%A4%96%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9D%97">红外学习模块</a><a href="#红外学习模--红外学习模块" class="hash-link" aria-label="红外学习模--红外学习模块的直接链接" title="红外学习模--红外学习模块的直接链接">​</a></h2>
+<ul>
+<li><a href="#%E7%BA%A2%E5%A4%96%E5%AD%A6%E4%B9%A0%E6%A8%A1--%E7%BA%A2%E5%A4%96%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9D%97">红外学习模- 红外学习模块</a></li>
+<li><a href="#%E5%BF%83%E7%8E%87%E6%A8%A1%E5%9D%97">心率模块</a></li>
+<li><a href="#%E6%99%BA%E8%83%BD%E7%AA%97%E5%B8%98%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F">智能窗帘控制系统</a></li>
+</ul>
 <p><a href="https://easydoc.net/doc/55560358/ZasQ4mWD/L6I3rA6z" target="_blank" rel="noopener noreferrer"> 智家物联科技模块常见问题解答 </a></p>
+<hr>
 <p><a href="https://www.bilibili.com/read/cv11469198/" target="_blank" rel="noopener noreferrer">红外学习模块调试过程分享</a></p>
 <p><a href="https://blog.csdn.net/weixin_44048162/article/details/108739482" target="_blank" rel="noopener noreferrer">基于STM32的红外万能遥控器完整教程</a></p>
 <p><a href="https://www.bilibili.com/read/cv14721363/" target="_blank" rel="noopener noreferrer">如何使用红外控制空调</a></p>
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="心率模块">心率模块<a href="#心率模块" class="hash-link" aria-label="心率模块的直接链接" title="心率模块的直接链接">​</a></h2>
 <p><a href="https://www.yuque.com/uzqh1u" target="_blank" rel="noopener noreferrer">唛丁思知瑞售后知识库</a></p>
 <p><a target="_blank" href="/assets/files/唛丁思知瑞售后知识库-2b665d4ae655dc1ff1bccbc98102b886.png"></a></p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="智能窗帘控制系统">智能窗帘控制系统<a href="#智能窗帘控制系统" class="hash-link" aria-label="智能窗帘控制系统的直接链接" title="智能窗帘控制系统的直接链接">​</a></h2>
-<p><a href="https://blog.csdn.net/xiaolong1126626497/article/details/132799883" target="_blank" rel="noopener noreferrer">基于STM32+华为云IOT设计的智能窗帘控制系统</a></p>]]></content:encoded>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="智能窗帘控制系统">智能窗帘控制系统<a href="#智能窗帘控制系统" class="hash-link" aria-label="智能窗帘控制系统的直接链接" title="�智能窗帘控制系统的直接链接">​</a></h2>
+<p><a href="https://blog.csdn.net/xiaolong1126626497/article/details/132799883" target="_blank" rel="noopener noreferrer">基于STM32+华为云IOT设计的智能窗帘控制系统</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/138718488" target="_blank" rel="noopener noreferrer">让步进电机动起来——L298N驱动步进电机</a></p>
+<p><a href="https://www.bilibili.com/video/BV1eR4y1Q7R8/?spm_id_from=333.337.search-card.all.click&amp;vd_source=8cf01586a6f7ffee39caf782a865d3b6" target="_blank" rel="noopener noreferrer">手搓智能家居</a></p>
+<p><a href="https://gitee.com/wenzhengclub/My_curtain_robot" target="_blank" rel="noopener noreferrer">迷你窗帘机器人</a></p>
+<p><a href="https://github.com/lycraft/ToSJT_curtain" target="_blank" rel="noopener noreferrer">智能窗帘毕设 微控制器STM32F103C8T6，检测光照强度，手动模式和自动模式控制窗帘开关。</a></p>]]></content:encoded>
             <category>STM32</category>
             <category>笔记</category>
         </item>
@@ -392,6 +402,37 @@ simlink仿真: 卡尔曼滤波----双环闭环PID控制<br>
             <category>控制工程</category>
         </item>
         <item>
+            <title><![CDATA[开发中的问题]]></title>
+            <link>https://Abrillant-Lee.github.io/blog/questions</link>
+            <guid>https://Abrillant-Lee.github.io/blog/questions</guid>
+            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[开发中的问题]]></description>
+            <content:encoded><![CDATA[<ul>
+<li>报错：<code>Error: Error connecting DP: cannot read IDR</code></li>
+</ul>
+<blockquote>
+<p>原因：芯片进入了Flash保护模式，无法读取IDR。解锁芯片即可解决</p>
+</blockquote>
+<ul>
+<li><a href="https://doc.embedfire.com/mcu/stm32/f407batianhu/std/zh/latest/book/FLASH_protect.html#id15" target="_blank" rel="noopener noreferrer">参考链接</a></li>
+<li>级别0，无保护</li>
+</ul>
+<blockquote>
+<p>这是STM32的默认保护级别，它没有任何读保护，读取内部FLASH及“备份SRAM”的内容都没有任何限制。 (注意这里说的“备份SRAM”是指STM32备份域的SRAM空间，不是指主SRAM，下同)</p>
+</blockquote>
+<ul>
+<li>级别1，使能读保护</li>
+</ul>
+<blockquote>
+<p>在级别1模式下，任何尝试从外部访问内部FLASH内容的操作都被禁止，例如无法通过下载器读取它的内容，或编写一个从内部SRAM启动的程序， 若该程序读取内部FLASH，会被禁止。而如果是芯片自己访问内部FLASH，是完全没有问题的， 例如前面的“读写内部FLASH”实验中的代码自己擦写内部FLASH空间的内容，即使处于级别1的读保护，也能正常擦写。</p>
+</blockquote>
+<ul>
+<li>级别2，禁止调试</li>
+</ul>]]></content:encoded>
+            <category>stm32</category>
+            <category>控制工程</category>
+        </item>
+        <item>
             <title><![CDATA[碳管理项目梳理]]></title>
             <link>https://Abrillant-Lee.github.io/blog/sct</link>
             <guid>https://Abrillant-Lee.github.io/blog/sct</guid>
@@ -517,7 +558,7 @@ simlink仿真: 卡尔曼滤波----双环闭环PID控制<br>
 <p><img loading="lazy" src="/img/blog/昇腾应用场景.png" class="img_ev3q"><br></p>
 <p>昇腾尺寸：13.9cm*13.6cm</p>
 <p>7寸显示屏尺寸：15.5cm*9.5cm</p>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="下一步规划">下一步规划：<a href="#下一步规划" class="hash-link" aria-label="下一步规划：的直接链接" title="下一步规划：的直接链接">​</a></h3>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="下一步规�划">下一步规划：<a href="#下一步规划" class="hash-link" aria-label="下一步规划：的直接链接" title="下一步规划：的直接链接">​</a></h3>
 <ul>
 <li>1、建立Fusion模型</li>
 <li>2、借鉴其他项目的qt界面，快速魔改</li>
