@@ -2,12 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Abrillant-Lee.github.io/en/blog</id>
     <title>nan</title>
-    <updated>2024-01-24T00:00:00.000Z</updated>
+    <updated>2024-02-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Abrillant-Lee.github.io/en/blog"/>
     <subtitle>nan Blog</subtitle>
     <icon>https://Abrillant-Lee.github.io/en/img/nan.ico</icon>
     <rights>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;CC BY-NC 4.0&lt;/a&gt;&lt;/p&gt;</rights>
+    <entry>
+        <title type="html"><![CDATA[暴力解密]]></title>
+        <id>https://Abrillant-Lee.github.io/en/blog/boli</id>
+        <link href="https://Abrillant-Lee.github.io/en/blog/boli"/>
+        <updated>2024-02-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暴力解压加密压缩包]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>今天在安装<code>SolidWorks 2024</code>时，看到一个知乎的比较详细，就将他的百度网盘文件下载下来，准备跟着这篇文章安装，谁知安装包是一个加密压缩包，解压时需要输入密码，解密需要付费 28yuan！，真的是出生，给个百度网盘还是加密的压缩包!然后我就开始冲浪各种如何不用密码解压压缩包，以下是我总结的方法：</p>
+</blockquote>
+<p>在 Linux 上，使用 "fcrackzip" 或 "John the Ripper" 这样的工具来尝试破解压缩包的密码，因为 windows 上的工具都是收费的，真的是吐了。</p>
+<p>暴力解密成功<img loading="lazy" src="/en/assets/images/暴力解密-53f14b5cd032cd8528d0c6d6ec17b4cd.png" width="1059" height="80" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>李浩楠</name>
+            <uri>https://github.com/Abrillant-Lee</uri>
+        </author>
+        <category label="解密" term="解密"/>
+        <category label="分享" term="分享"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[培讲讲师and培训负责人and培训成员]]></title>
         <id>https://Abrillant-Lee.github.io/en/blog/Winter_vacation_training</id>
@@ -80,9 +98,10 @@
         <link href="https://Abrillant-Lee.github.io/en/blog/sentences"/>
         <updated>2024-01-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA["♥君子藏器于身，待时而动……♥"]]></summary>
-        <content type="html"><![CDATA[<p>"♥君子藏器于身，待时而动……♥"
-“♥站在巨人的肩膀上，可以更快的到达目的地、拿到更好的成果♥”
-"♥我们读书是为了成为提灯人去照亮黑暗，而不是为了自己有灯而沾沾自喜还要去吹灭别人的蜡烛♥"</p>]]></content>
+        <content type="html"><![CDATA[<p>"♥君子藏器于身，待时而动……♥"</p>
+<p>“♥站在巨人的肩膀上，可以更快的到达目的地、拿到更好的成果♥”</p>
+<p>"♥我们读书是为了成为提灯人去照亮黑暗，而不是为了自己有灯而沾沾自喜还要去吹灭别人的蜡烛♥"</p>
+<p>嵌入式技术的发展就是不断脱离底层，不断借用库函数的过程</p>]]></content>
         <author>
             <name>李浩楠</name>
             <uri>https://github.com/Abrillant-Lee</uri>
