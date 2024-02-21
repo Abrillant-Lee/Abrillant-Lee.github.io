@@ -53,39 +53,6 @@
         <category label="分享" term="分享"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[培讲讲师and培训负责人and培训成员]]></title>
-        <id>https://Abrillant-Lee.github.io/en/blog/Winter_vacation_training</id>
-        <link href="https://Abrillant-Lee.github.io/en/blog/Winter_vacation_training"/>
-        <updated>2024-01-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[培训讲师and培训负责人]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="我的角色清单">我的角色清单<a href="#我的角色清单" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1培训讲师">1、培训讲师<a href="#1培训讲师" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
-<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="硬件hi3861培训讲师">硬件Hi3861培训讲师<a href="#硬件hi3861培训讲师" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>
-<p><code>2024-01-24 8:30</code> 第一讲：入门与实践——掌握Hi3861开发环境搭建及基础应用编程
-<code>2024-2-12 10:00</code> 第四讲：Hi3861物联网实现</p>
-<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="数据传输讲师">数据传输讲师<a href="#数据传输讲师" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>
-<p><code>2024-2-3 10:00</code> 第二讲：入门与实践——掌握Hi3861开发环境搭建及基础应用编程
-<code>2024-2-17 10:00</code> 第六讲： 服务器后端Django后端开发，部署服务器并连接MySQL</p>
-<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="控制工程讲师">控制工程讲师<a href="#控制工程讲师" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>
-<p><code>2024-2-xxa 10:00</code> 第六讲：</p>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="2培训负责人">2、培训负责人<a href="#2培训负责人" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
-<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="硬件hi3861组内负责人">硬件Hi3861组内负责人<a href="#�硬件hi3861组内负责人" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>
-<p>IOT组培训成员：全部新生</p>
-<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="数据传输组内负责人">数据传输组内负责人<a href="#数据传输组内负责人" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>
-<p>IOT组培训成员：张文杰、张威、李豪、刘俊威、王博、平运宏、谢政茹、陈玉玲、陈依琳</p>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="3培训成员">3、培训成员<a href="#3培训成员" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
-<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="pytorchmindspore框架学习陈新杰">pytorch、mindspore框架学习——陈新杰<a href="#pytorchmindspore框架学习陈新杰" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>
-<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="模型训练调优部署云端边缘丁康佳">模型训练、调优、部署（云端、边缘）——丁康佳<a href="#模型训练调优部署云端边缘丁康佳" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>
-<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="英语培训">英语培训<a href="#英语培训" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h4>]]></content>
-        <author>
-            <name>李浩楠</name>
-            <uri>https://github.com/Abrillant-Lee</uri>
-        </author>
-        <category label="培训" term="培训"/>
-        <category label="思考" term="思考"/>
-        <category label="blog" term="blog"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[有用资料收集]]></title>
         <id>https://Abrillant-Lee.github.io/en/blog/other</id>
         <link href="https://Abrillant-Lee.github.io/en/blog/other"/>
@@ -116,23 +83,6 @@
             <uri>https://github.com/Abrillant-Lee</uri>
         </author>
         <category label="STM32" term="STM32"/>
-        <category label="笔记" term="笔记"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[daily/语句]]></title>
-        <id>https://Abrillant-Lee.github.io/en/blog/sentences</id>
-        <link href="https://Abrillant-Lee.github.io/en/blog/sentences"/>
-        <updated>2024-01-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA["♥君子藏器于身，待时而动……♥"]]></summary>
-        <content type="html"><![CDATA[<p>"♥君子藏器于身，待时而动……♥"</p>
-<p>“♥站在巨人的肩膀上，可以更快的到达目的地、拿到更好的成果♥”</p>
-<p>"♥我们读书是为了成为提灯人去照亮黑暗，而不是为了自己有灯而沾沾自喜还要去吹灭别人的蜡烛♥"</p>
-<p>嵌入式技术的发展就是不断脱离底层，不断借用库函数的过程</p>]]></content>
-        <author>
-            <name>李浩楠</name>
-            <uri>https://github.com/Abrillant-Lee</uri>
-        </author>
-        <category label="语句" term="语句"/>
         <category label="笔记" term="笔记"/>
     </entry>
     <entry>

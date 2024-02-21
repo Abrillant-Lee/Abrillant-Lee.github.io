@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[8865],{7044:e=>{e.exports=JSON.parse('{"title":"STM32","slug":"/category/stm32","permalink":"/en/docs/category/stm32","navigation":{"previous":{"title":"\u6280\u672f\u7b14\u8bb0\u7b80\u4ecb","permalink":"/en/docs/notes"},"next":{"title":"hello","permalink":"/en/docs/hello"}}}')}}]);
