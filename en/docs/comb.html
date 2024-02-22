@@ -24,7 +24,7 @@
 <meta name="theme-color" content="rgb(51 139 255)">
 <meta name="description" content="nan的个人博客">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css" integrity="sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM" crossorigin="anonymous"><link rel="stylesheet" href="/en/assets/css/styles.2a9c1255.css">
-<script src="/en/assets/js/runtime~main.057a196b.js" defer="defer"></script>
+<script src="/en/assets/js/runtime~main.c20d26a5.js" defer="defer"></script>
 <script src="/en/assets/js/main.4a04c7cc.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -102,14 +102,51 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="减碳的数据如何体现">减碳的数据如何体现<a href="#减碳的数据如何体现" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="节能减碳的数据如何体现">节能减碳的数据如何体现<a href="#节能减碳的数据如何体现" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
 <p>智能窗帘：
-计算自然光照充  足时段的长短（采集光敏电阻数据大于阈值的时间）
+计  算自然光照充足时段的长短（采集光敏电阻数据大于阈值的时间）
 ｜ 窗帘能在充足的白天时段自动开启，使得室内明亮无须开灯，那这段时间就成为潜在的节省时间</p>
 <p>智能电灯：
 计算无人时段的长短</p>
 <p>智能空调：
 计算温度处于阈值时间段的长短（采集温度数据在阈值间的时间）</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="先做假设获取时间后续再做实验">先做假设获取时间，后续再做实验<a href="#先做假设获取时间后续再做实验" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
+<p>智能窗帘：节省时间≈12h</p>
+<ul>
+<li>假设：窗帘能在充足的白天时段自动开启，使得室内明亮无须开灯，那这段时间就成为潜在的节省时间<br></li>
+</ul>
+<blockquote>
+<blockquote>
+<p>根据中国大陆范围内的平均数据，每天的平均白天时长约为12小时。<br></p>
+</blockquote>
+</blockquote>
+<ul>
+<li>实验：采集光敏电阻数据，计算光照充足时段的长短</li>
+</ul>
+<p>智能电灯：节省时间≈9h</p>
+<ul>
+<li>假设：无人时段的长短</li>
+</ul>
+<blockquote>
+<blockquote>
+<p>根据208晚上11点~早上8点<br></p>
+</blockquote>
+</blockquote>
+<ul>
+<li>实验：采集人体红外传感器数据，计算无人时段的长短</li>
+</ul>
+<p>智能空调：节省时间≈3h</p>
+<ul>
+<li>假设：温度处于阈值时间段的长短</li>
+</ul>
+<blockquote>
+<blockquote>
+<p>节省10%至20%的开启时间，假设一整天开启，取中间值15%<br></p>
+</blockquote>
+</blockquote>
+<ul>
+<li>实验：采集温度数据，计算温度处于阈值时间段的长短</li>
+</ul>
 <h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="这三个模块如何联系">这三个模块如何联系<a href="#这三个模块如何联系" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
 <ul>
 <li>智能电灯模块：不需要上云，如果需要app控制，则上云</li>
@@ -124,6 +161,6 @@
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="下一步计划">下一步计划：<a href="#下一步计划" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
 <ul>
 <li>1、用了多少时间、省了多少时间</li>
-</ul></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation"><a class="pagination-nav__link pagination-nav__link--prev" href="/en/docs/SCT_curtain_robot"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">碳管理智能窗帘机器人</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/en/docs/category/抑郁评估"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">抑郁评估</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_jeP5 thin-scrollbar theme-doc-toc-desktop" style="opacity:0;transform:translateX(100px) translateZ(0)"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#硬件框架图最终形态" class="table-of-contents__link toc-highlight">硬件框架图、最终形态</a></li><li><a href="#最终实现效果" class="table-of-contents__link toc-highlight">最终实现效果</a><ul><li><a href="#1外观一个显示屏--碳测量一体机--智能窗帘机器人" class="table-of-contents__link toc-highlight">1、外观：一个显示屏 + 碳测量一体机 + 智能窗帘机器人</a></li></ul></li><li><a href="#碳减排" class="table-of-contents__link toc-highlight">碳减排</a><ul><li><a href="#一智能电灯模块" class="table-of-contents__link toc-highlight">一、智能电灯模块</a></li><li><a href="#二智能空调模块" class="table-of-contents__link toc-highlight">二、智能空调模块</a></li><li><a href="#三智能窗帘机器人" class="table-of-contents__link toc-highlight">三、智能窗帘机器人</a></li><li><a href="#这三个模块和项目的联系" class="table-of-contents__link toc-highlight">这三个模块和项目的联系</a></li><li><a href="#减碳的数据如何体现" class="table-of-contents__link toc-highlight">减碳的数据如何体现</a></li><li><a href="#这三个模块如何联系" class="table-of-contents__link toc-highlight">这三个模块如何联系</a></li></ul></li><li><a href="#碳核算" class="table-of-contents__link toc-highlight">碳核算</a><ul><li><a href="#数据采集模块" class="table-of-contents__link toc-highlight">数据采集模块</a></li></ul></li><li><a href="#下一步计划" class="table-of-contents__link toc-highlight">下一步计划：</a></li></ul><hr class="hr_UhE0"><span class="percent_H6RK">0%<!-- --> </span></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="col footer__col"><div class="footer__title">Study</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/en/blog">Blogs</a></li><li class="footer__item"><a class="footer__link-item" href="/en/blog/archive">Archive</a></li><li class="footer__item"><a class="footer__link-item" href="/en/docs/notes">学习笔记</a></li><li class="footer__item"><a class="footer__link-item" href="/en/project">Projects</a></li></ul></div><div class="col footer__col"><div class="footer__title">Social Media</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/en/about">About Me</a></li><li class="footer__item"><a href="https://github.com/Abrillant-Lee" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li><li class="footer__item"><a href="https://space.bilibili.com/2028761216?spm_id_from=333.1007.0.0" target="_blank" rel="noopener noreferrer" class="footer__link-item">bilbili<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div><div class="col footer__col"><div class="footer__title">More</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" position="right" href="/en/friends">Friends</a></li><li class="footer__item"><a class="footer__link-item" position="right" href="/en/resource">Links</a></li><li class="footer__item"><a href="https://docusaurus.io/zh-CN/" target="_blank"><img style="height:50px;margin-top:0.5rem" src="/img/buildwith.png"><a></a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright"><p><a href="http://beian.miit.gov.cn/">闽ICP备2020017848号-2</a></p><p>Copyright © 2020 – PRESENT disnox Built with Docusaurus.</p></div></div></div></footer></div>
+</ul></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages navigation"><a class="pagination-nav__link pagination-nav__link--prev" href="/en/docs/SCT_curtain_robot"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">碳管理智能窗帘机器人</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/en/docs/category/抑郁评估"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">抑郁评估</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_jeP5 thin-scrollbar theme-doc-toc-desktop" style="opacity:0;transform:translateX(100px) translateZ(0)"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#硬件框架图最终形态" class="table-of-contents__link toc-highlight">硬件框架图、最终形态</a></li><li><a href="#最终实现效果" class="table-of-contents__link toc-highlight">最终实现效果</a><ul><li><a href="#1外观一个显示屏--碳测量一体机--智能窗帘机器人" class="table-of-contents__link toc-highlight">1、外观：一个显示屏 + 碳测量一体机 + 智能窗帘机器人</a></li></ul></li><li><a href="#碳减排" class="table-of-contents__link toc-highlight">碳减排</a><ul><li><a href="#一智能电灯模块" class="table-of-contents__link toc-highlight">一、智能电灯模块</a></li><li><a href="#二智能空调模块" class="table-of-contents__link toc-highlight">二、智能空调模块</a></li><li><a href="#三智能窗帘机器人" class="table-of-contents__link toc-highlight">三、智能窗帘机器人</a></li><li><a href="#这三个模块和项目的联系" class="table-of-contents__link toc-highlight">这三个模块和项目的联系</a></li><li><a href="#节能减碳的数据如何体现" class="table-of-contents__link toc-highlight">节能减碳的数据如何体现</a></li><li><a href="#先做假设获取时间后续再做实验" class="table-of-contents__link toc-highlight">先做假设获取时间，后续再做实验</a></li><li><a href="#这三个模块如何联系" class="table-of-contents__link toc-highlight">这三个模块如何联系</a></li></ul></li><li><a href="#碳核算" class="table-of-contents__link toc-highlight">碳核算</a><ul><li><a href="#数据采集模块" class="table-of-contents__link toc-highlight">数据采集模块</a></li></ul></li><li><a href="#下一步计划" class="table-of-contents__link toc-highlight">下一步计划：</a></li></ul><hr class="hr_UhE0"><span class="percent_H6RK">0%<!-- --> </span></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="col footer__col"><div class="footer__title">Study</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/en/blog">Blogs</a></li><li class="footer__item"><a class="footer__link-item" href="/en/blog/archive">Archive</a></li><li class="footer__item"><a class="footer__link-item" href="/en/docs/notes">学习笔记</a></li><li class="footer__item"><a class="footer__link-item" href="/en/project">Projects</a></li></ul></div><div class="col footer__col"><div class="footer__title">Social Media</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/en/about">About Me</a></li><li class="footer__item"><a href="https://github.com/Abrillant-Lee" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li><li class="footer__item"><a href="https://space.bilibili.com/2028761216?spm_id_from=333.1007.0.0" target="_blank" rel="noopener noreferrer" class="footer__link-item">bilbili<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a></li></ul></div><div class="col footer__col"><div class="footer__title">More</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" position="right" href="/en/friends">Friends</a></li><li class="footer__item"><a class="footer__link-item" position="right" href="/en/resource">Links</a></li><li class="footer__item"><a href="https://docusaurus.io/zh-CN/" target="_blank"><img style="height:50px;margin-top:0.5rem" src="/img/buildwith.png"><a></a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright"><p><a href="http://beian.miit.gov.cn/">闽ICP备2020017848号-2</a></p><p>Copyright © 2020 – PRESENT disnox Built with Docusaurus.</p></div></div></div></footer></div>
 </body>
 </html>
