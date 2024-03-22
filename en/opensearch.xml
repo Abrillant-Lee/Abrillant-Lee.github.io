@@ -4,8 +4,8 @@
   <ShortName>nan</ShortName>
   <Description>Search nan</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://Abrillant-Lee.github.io/en/img/nan.ico</Image>
-  <Url type="text/html" method="get" template="https://Abrillant-Lee.github.io/en/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://Abrillant-Lee.github.io/en/opensearch.xml" />
-  <moz:SearchForm>https://Abrillant-Lee.github.io/en/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://abrillantlee.top/en/img/nan.ico</Image>
+  <Url type="text/html" method="get" template="https://abrillantlee.top/en/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://abrillantlee.top/en/opensearch.xml" />
+  <moz:SearchForm>https://abrillantlee.top/en/</moz:SearchForm>
 </OpenSearchDescription>
