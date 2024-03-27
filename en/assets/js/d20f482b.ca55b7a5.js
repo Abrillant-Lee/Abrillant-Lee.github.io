@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[2181],{1662:e=>{e.exports=JSON.parse('{"label":"MCU","permalink":"/en/blog/tags/mcu","allTagsPath":"/en/blog/tags","count":1,"unlisted":false}')}}]);

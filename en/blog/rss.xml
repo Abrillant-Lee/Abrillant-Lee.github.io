@@ -4,11 +4,46 @@
         <title>nan</title>
         <link>https://abrillantlee.top/en/blog</link>
         <description>nan Blog</description>
-        <lastBuildDate>Wed, 20 Mar 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2024 nan Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;闽ICP备2020017848号-2&lt;/a&gt;&lt;/p&gt;</copyright>
+        <item>
+            <title><![CDATA[lvgl学习笔记]]></title>
+            <link>https://abrillantlee.top/en/blog/lvgl_learn</link>
+            <guid>https://abrillantlee.top/en/blog/lvgl_learn</guid>
+            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[lvgl学习笔记]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_BDBl" id="1-lvgl简介">1. LVGL简介<a href="https://abrillantlee.top/en/blog/lvgl_learn#1-lvgl%E7%AE%80%E4%BB%8B" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
+<p>LVGL (Light and Versatile Graphics Library) 是一个开源的图形用户界面库，旨在提供轻量级、可移植、灵活和易于使用的图形用户界面解决方案。</p>
+<p>它适用于嵌入式系统，可以在不同的操作系统、微控制器和图形加速器上运行。LVGL的核心代码是用C语言编写的，支持多种显示设备和输入设备，包括液显示屏、OLED显示屏、触摸屏、按键和编码器
+等。</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_BDBl" id="lvgl的特点">LVGL的特点<a href="https://abrillantlee.top/en/blog/lvgl_learn#lvgl%E7%9A%84%E7%89%B9%E7%82%B9" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3>
+<ol>
+<li>轻量级和高效<!-- -->:LVGL<!-- -->的核心代码非常小巧，可以在资源受限的嵌入式系统上运行，同时具有出色的性
+能和速度。</li>
+<li>可移植性: LVGL支持多种处理器架构和提作系统，可以在不同的平台上使用。</li>
+<li>灵活性<!-- -->:LVGL<!-- -->提供了大量的可自定义选项，包括主题、字体、颜色、大小、形状等，可以根据项目需
+求进行灵活定制。</li>
+<li>易于使用: LVGL提供了简单易懂的AI和丰富的文档，使开发人员可以快速上手，构建复杂的图形用户
+界面。</li>
+<li>多种输入设备支持: LVGL支持多种输入设备，包括触摸屏、按键、编码器等，可以满足不同应用场景
+的需求。</li>
+<li>多种组件支持<!-- -->:LVGL<!-- -->提供了多种常用组件，如政本框、按钮、滑动条、表格、菜单等，同时还支持自定义组件。</li>
+<li>兼容性: LVGL支持多种显示设备，包括LCD、OLED、ePaper等，可以适应不同的显示分辨率和屏幕
+尺寸。</li>
+<li>社区支持: LVGL有一个活跃的社区，用户可以在社区中获得支持和帮助，同时也可以分享自己的经验
+和贡献代码。</li>
+</ol>
+<h2 class="anchor anchorWithHideOnScrollNavbar_BDBl" id="2-lvgl模拟器搭建">2. LVGL模拟器搭建<a href="https://abrillantlee.top/en/blog/lvgl_learn#2-lvgl%E6%A8%A1%E6%8B%9F%E5%99%A8%E6%90%AD%E5%BB%BA" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2>
+<p>环境：WSL2(Ubuntu) + Platformio + VsCode</p>
+<p><span style="display:inline-flex;gap:0.25rem"><span></span><a href="https://github.com/lvgl/lv_platformio?tab=readme-ov-file" target="_blank" rel="noopener noreferrer">Run LittlevGL via PlatformIO</a></span></p>
+<div class="language-bash codeBlockContainer_APcc theme-code-block" style="--prism-background-color:hsl(230, 1%, 98%);--prism-color:hsl(230, 8%, 24%)"><div class="codeBlockContent_m3Ux"><pre tabindex="0" class="prism-code language-bash codeBlock_qGQc thin-scrollbar" style="background-color:hsl(230, 1%, 98%);color:hsl(230, 8%, 24%)"><code class="codeBlockLines_p187"><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token comment" style="color:hsl(230, 4%, 64%)"># wsl中安装依赖</span><span class="token plain"></span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain"></span><span class="token function" style="color:hsl(221, 87%, 60%)">sudo</span><span class="token plain"> </span><span class="token function" style="color:hsl(221, 87%, 60%)">apt-get</span><span class="token plain"> </span><span class="token function" style="color:hsl(221, 87%, 60%)">install</span><span class="token plain"> libsdl2-dev</span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain"></span><span class="token comment" style="color:hsl(230, 4%, 64%)"># clone官方提供的lvgl的platformio案例</span><span class="token plain"></span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain"></span><span class="token function" style="color:hsl(221, 87%, 60%)">git</span><span class="token plain"> clone https://github.com/lvgl/lv_platformio.git</span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain"></span><span class="token comment" style="color:hsl(230, 4%, 64%)"># code 打开项目</span><span class="token plain"></span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain">code lv_platformio</span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain"></span><span class="token comment" style="color:hsl(230, 4%, 64%)"># 图形化界面安装platformio插件不再赘述</span><span class="token plain"></span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain"></span><span class="token comment" style="color:hsl(230, 4%, 64%)"># 如果在vscode中使用platformio出现 Can not find working Python 3.6+ Interpreter的问题，安装以下依赖</span><span class="token plain"></span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain"></span><span class="token function" style="color:hsl(221, 87%, 60%)">sudo</span><span class="token plain"> </span><span class="token function" style="color:hsl(221, 87%, 60%)">apt-get</span><span class="token plain"> </span><span class="token function" style="color:hsl(221, 87%, 60%)">install</span><span class="token plain"> python3-venv</span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:hsl(230, 8%, 24%)"><span class="token plain"></span><span class="token comment" style="color:hsl(230, 4%, 64%)"># 点击Execute执行</span><br></span></code></pre><div class="buttonGroup_6DOT"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_FhaS" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_phi_"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_FfTR"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p><img loading="lazy" alt="hello" src="https://abrillantlee.top/en/assets/images/lvgl_platformio-16b133ee3101041bebb42253a6a58d28.png" width="1396" height="809" class="img_KnJ7"></p>]]></content:encoded>
+            <category>MCU</category>
+            <category>lvgl</category>
+        </item>
         <item>
             <title><![CDATA[blockchain]]></title>
             <link>https://abrillantlee.top/en/blog/blockchain</link>
